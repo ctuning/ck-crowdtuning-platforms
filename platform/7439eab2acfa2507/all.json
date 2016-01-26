@@ -1,10 +1,10 @@
 {
+  "touched": 7,
   "all": [
     {
       "model": "Y330-U01",
       "name": "HUAWEI Y330-U01",
       "vendor": "HUAWEI"
     }
-  ],
-  "touched": 0
+  ]
 }

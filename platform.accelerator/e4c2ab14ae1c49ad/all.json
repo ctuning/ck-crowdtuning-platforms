@@ -1,0 +1,21 @@
+{
+  "all": [
+    {
+      "all_freqs": [
+        " 600 543 480 420 350 266 177"
+      ],
+      "current_freq": "177",
+      "vendor": "ARM",
+      "name": "Mali T-628"
+    },
+    {
+      "all_freqs": [
+        " 600 543 480 420 350 266 177"
+      ],
+      "current_freq": "600",
+      "vendor": "ARM",
+      "name": "Mali T-628"
+    }
+  ],
+  "touched": 11
+}

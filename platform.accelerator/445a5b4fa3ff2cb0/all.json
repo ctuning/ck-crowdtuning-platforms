@@ -1,0 +1,9 @@
+{
+  "all": [
+    {
+      "name": "ARM Mali-400 MP",
+      "vendor": "ARM"
+    }
+  ],
+  "touched": 1
+}

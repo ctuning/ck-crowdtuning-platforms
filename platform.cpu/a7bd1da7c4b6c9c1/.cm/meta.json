@@ -1,0 +1,11 @@
+{
+  "features": {
+    "cpu_features": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext fxsr_opt rdtscp lm constant_tsc tsc_reliable nonstop_tsc aperfmperf pni pclmulqdq ssse3 cx16 sse4_1 sse4_2 popcnt aes xsave avx hypervisor lahf_lm extapic abm sse4a misalignsse 3dnowprefetch osvw xop fma4 arat", 
+    "current_freq": {
+      "0": 2300.027
+    }, 
+    "name": "AMD Opteron(TM) Processor 6276", 
+    "num_proc": "1", 
+    "sub_name": "AMD Opteron(TM) Processor 6276"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "features": {
+    "model": "Odroid", 
+    "name": "ODROID-XU3", 
+    "vendor": "Hardkernel" 
+  }
+}

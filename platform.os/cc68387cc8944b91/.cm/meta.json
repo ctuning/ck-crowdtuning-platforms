@@ -1,0 +1,10 @@
+{
+  "features": {
+    "bits": "32", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "android19-arm", 
+    "name": "Android 4.2.2", 
+    "name_long": "Linux version 3.4.5 (z00182893@ubuntu) (gcc version 4.6.x-google 20120106 (prerelease) (GCC) ) #1 SMP PREEMPT Thu Aug 14 21:28:23 CST 2014", 
+    "name_short": "Linux version 3.4.5"
+  }
+}

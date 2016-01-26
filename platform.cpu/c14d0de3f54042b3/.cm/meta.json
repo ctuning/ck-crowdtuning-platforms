@@ -1,0 +1,12 @@
+{
+  "comment": "This processor was used for public cTuning experiments on collective tuning with multiple datasets (2008)", 
+  "features": {
+    "cpu_features": "", 
+    "current_freq": {
+      "0": 0
+    }, 
+    "name": "Godson2 V0.2  FPU V0.1", 
+    "num_proc": "1", 
+    "sub_name": "Godson2 V0.2  FPU V0.1"
+  }
+}

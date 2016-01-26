@@ -1,0 +1,14 @@
+{
+  "features": {
+    "cpu_features": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe nx constant_tsc arch_perfmon pebs bts nonstop_tsc aperfmperf nonstop_tsc_s3 pni dtes64 monitor ds_cpl vmx est tm2 ssse3 xtpr pdcm movbe lahf_lm arat dtherm tpr_shadow vnmi flexpriority", 
+    "current_freq": {
+      "0": 800.0, 
+      "1": 800.0, 
+      "2": 800.0, 
+      "3": 800.0
+    }, 
+    "name": "Intel(R) Atom(TM) CPU Z2520  @ 1.20GHz", 
+    "num_proc": "4", 
+    "sub_name": "Intel(R) Atom(TM) CPU Z2520  @ 1.20GHz"
+  }
+}

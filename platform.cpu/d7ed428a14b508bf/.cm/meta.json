@@ -1,0 +1,11 @@
+{
+  "features": {
+    "cpu_features": "swp half thumb fastmult vfp edsp java", 
+    "current_freq": {
+      "0": 0
+    }, 
+    "name": "Goldfish", 
+    "num_proc": "1", 
+    "sub_name": "ARM926EJ-S rev 5 (v5l)"
+  }
+}

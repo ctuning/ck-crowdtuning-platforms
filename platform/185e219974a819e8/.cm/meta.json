@@ -1,0 +1,7 @@
+{
+  "features": {
+    "model": "falcon_eegbsl", 
+    "name": "Motorola falcon_eegbsl", 
+    "vendor": "Motorola"
+  }
+}

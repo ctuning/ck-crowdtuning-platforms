@@ -1,0 +1,11 @@
+{
+  "features": {
+    "cpu_features": "", 
+    "current_freq": {
+      "0": 0
+    }, 
+    "name": "Cell Broadband Engine, altivec supported", 
+    "num_proc": "2", 
+    "sub_name": "Cell Broadband Engine, altivec supported"
+  }
+}

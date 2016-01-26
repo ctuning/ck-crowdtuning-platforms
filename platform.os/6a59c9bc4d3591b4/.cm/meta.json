@@ -1,0 +1,7 @@
+{
+  "features": {
+    "name": "compatibility - Linux version 3.4.5", 
+    "name_long": "Linux version 3.4.5-1466018-user (se.infra@SEP-66) (gcc version 4.6.x-google 20120106 (prerelease) (GCC) ) #1 SMP PREEMPT Wed Nov 13 17:22:54 KST 2013", 
+    "name_short": "Linux version 3.4.5"
+  }
+}

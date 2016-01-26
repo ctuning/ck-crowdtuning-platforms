@@ -1,0 +1,7 @@
+{
+  "features": {
+    "name": "compatibility - Linux version 2.6.32", 
+    "name_long": "Linux version 2.6.32-279.11.1.el6.x86_64 (mockbuild@c6b9.bsys.dev.centos.org) (gcc version 4.4.6 20120305 (Red Hat 4.4.6-4) (GCC) ) #1 SMP Tue Oct 16 15:57:10 UTC 2012", 
+    "name_short": "Linux version 2.6.32"
+  }
+}

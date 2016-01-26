@@ -1,0 +1,14 @@
+{
+  "features": {
+    "cpu_features": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm sse4_1 sse4_2 popcnt aes lahf_lm ida arat dtherm tpr_shadow vnmi flexpriority ept vpid", 
+    "current_freq": {
+      "0": 1199.0, 
+      "1": 2667.0, 
+      "2": 1866.0, 
+      "3": 2667.0
+    }, 
+    "name": "Intel(R) Core(TM) i7 CPU       M 620  @ 2.67GHz", 
+    "num_proc": "4", 
+    "sub_name": "Intel(R) Core(TM) i7 CPU       M 620  @ 2.67GHz"
+  }
+}

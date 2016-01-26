@@ -1,0 +1,12 @@
+{
+  "features": {
+    "cpu_features": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe nx constant_tsc arch_perfmon pebs bts nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 xtpr pdcm movbe lahf_lm arat dts tpr_shadow vnmi flexpriority", 
+    "current_freq": {
+      "0": 2000.0, 
+      "1": 2000.0
+    }, 
+    "name": "Intel(R) Atom(TM) CPU Z2480  @ 2.00GHz", 
+    "num_proc": "2", 
+    "sub_name": "Intel(R) Atom(TM) CPU Z2480  @ 2.00GHz"
+  }
+}

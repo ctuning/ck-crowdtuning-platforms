@@ -1,0 +1,10 @@
+{
+  "features": {
+    "bits": "64",
+    "ck_os_base_uoa": "",
+    "ck_os_uoa": "windows-64",
+    "name": "Windows 10",
+    "name_long": "Windows-10.0.10240",
+    "name_short": "Windows 10"
+  }
+}

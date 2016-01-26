@@ -1,0 +1,7 @@
+{
+  "features": {
+    "name": "compatibility - Linux version 3.4.0", 
+    "name_long": "Linux version 3.4.0-perf-g1db8e82 (lgmobile@si-rd10-bx45) (gcc version 4.6.x-google 20120106 (prerelease) (GCC) ) #1 SMP PREEMPT Wed Dec 4 14:43:35 IST 2013", 
+    "name_short": "Linux version 3.4.0"
+  }
+}

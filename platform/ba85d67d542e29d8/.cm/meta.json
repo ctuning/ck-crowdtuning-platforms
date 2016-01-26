@@ -1,0 +1,7 @@
+{
+  "features": {
+    "model": "enrc2b", 
+    "name": "HTC enrc2b", 
+    "vendor": "HTC"
+  }
+}

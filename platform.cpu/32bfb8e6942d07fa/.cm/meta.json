@@ -1,0 +1,12 @@
+{
+  "comment": "Processors used for DSE in MILEPOST project", 
+  "features": {
+    "cpu_features": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext lm 3dnowext 3dnow up", 
+    "current_freq": {
+      "0": 2400.0
+    }, 
+    "name": "AMD Athlon(tm) 64 Processor 3700+", 
+    "num_proc": "1", 
+    "sub_name": "AMD Athlon(tm) 64 Processor 3700+"
+  }
+}

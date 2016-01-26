@@ -1,0 +1,7 @@
+{
+  "features": {
+    "name": "compatibility - Linux version 3.4.0 1.0.21100", 
+    "name_long": "Linux version 3.4.0 1.0.21100-313065-g1ccebb5-00193-gcbc50fc (BuildUser@BuildHost) (gcc version 4.6.x-google 20120106 (prerelease) (GCC) ) #1 SMP PREEMPT Tue Jul 23 15:55:38 2013", 
+    "name_short": "Linux version 3.4.0 1.0.21100"
+  }
+}

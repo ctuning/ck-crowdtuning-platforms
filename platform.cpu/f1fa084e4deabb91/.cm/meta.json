@@ -1,0 +1,11 @@
+{
+  "features": {
+    "cpu_features": "", 
+    "current_freq": {
+      "0": 0
+    }, 
+    "name": "IBM PowerPC 740/750", 
+    "num_proc": "1", 
+    "sub_name": "IBM PowerPC 740/750"
+  }
+}

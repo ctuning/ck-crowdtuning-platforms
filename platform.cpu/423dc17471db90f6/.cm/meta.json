@@ -1,0 +1,14 @@
+{
+  "features": {
+    "cpu_features": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe cid xtpr", 
+    "current_freq": {
+      "0": 2799.93, 
+      "1": 2799.93, 
+      "2": 2799.93, 
+      "3": 2799.93
+    }, 
+    "name": "Intel(R) Xeon(TM) CPU 2.80GHz", 
+    "num_proc": "4", 
+    "sub_name": "Intel(R) Xeon(TM) CPU 2.80GHz"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "all": [
+    {
+      "name": "Android 4.4.2", 
+      "ck_os_uoa": "android19-arm-dvdt", 
+      "name_short": "Linux version 3.4.0", 
+      "ck_os_base_uoa": "android19-arm", 
+      "bits": "32", 
+      "name_long": "Linux version 3.4.0-g7662155-00016-gdfb61f4 (git@build2) (gcc version 4.7 (GCC) ) #1 SMP PREEMPT Fri Nov 28 19:38:42 PST 2014"
+    }
+  ]
+}

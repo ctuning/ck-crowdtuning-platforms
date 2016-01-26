@@ -1,0 +1,13 @@
+{
+  "features": {
+    "current_freq": {
+      "0": 1680
+    }, 
+    "max_freq": {
+      "0": 2401
+    }, 
+    "name": "Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz", 
+    "num_proc": 4, 
+    "sub_name": "Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz"
+  }
+}

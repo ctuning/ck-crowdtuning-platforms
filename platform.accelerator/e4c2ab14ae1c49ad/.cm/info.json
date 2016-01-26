@@ -1,0 +1,20 @@
+{
+  "backup_data_uid": "e4c2ab14ae1c49ad",
+  "backup_module_uid": "55ec7775f4afaabd",
+  "backup_module_uoa": "platform.accelerator",
+  "control": {
+    "author": "cTuning foundation",
+    "author_email": "admin@cTuning.org",
+    "author_webpage": "http://cTuning.org",
+    "copyright": "See CK COPYRIGHT.txt for copyright details",
+    "engine": "CK",
+    "iso_datetime": "2016-01-12T12:44:24.565103",
+    "license": "See CK LICENSE.txt for licensing details",
+    "version": [
+      "1",
+      "6",
+      "12x"
+    ]
+  },
+  "data_name": "Mali T-628"
+}

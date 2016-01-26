@@ -1,0 +1,20 @@
+{
+  "all": [
+    {
+      "name": "Ubuntu 14.04.2 LTS", 
+      "ck_os_uoa": "linux-32", 
+      "name_short": "Linux 3.10.69", 
+      "ck_os_base_uoa": "", 
+      "bits": "32", 
+      "name_long": "Linux-3.10.69-armv7l-with-Ubuntu-14.04-trusty"
+    }, 
+    {
+      "name": "Ubuntu 14.04.2 LTS", 
+      "ck_os_uoa": "linux-64-mic", 
+      "name_short": "Linux 3.16.0", 
+      "ck_os_base_uoa": "", 
+      "bits": "64", 
+      "name_long": "Linux-3.16.0-38-generic-x86_64-with-Ubuntu-14.04-trusty"
+    }
+  ]
+}

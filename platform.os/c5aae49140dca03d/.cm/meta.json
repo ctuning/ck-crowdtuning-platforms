@@ -1,0 +1,10 @@
+{
+  "features": {
+    "bits": "32", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-32", 
+    "name": "Ubuntu 12.04.5 LTS", 
+    "name_long": "Linux-3.8.11-armv7l-with-Ubuntu-12.04-precise", 
+    "name_short": "Linux 3.8.11"
+  }
+}

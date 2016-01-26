@@ -1,0 +1,16 @@
+{
+  "features": {
+    "all_freqs": {}, 
+    "cpu_abi": "", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt", 
+    "current_freq": {
+      "0": 200
+    }, 
+    "max_freq": {
+      "0": 1400
+    }, 
+    "name": "ODROID-XU3", 
+    "num_proc": "1", 
+    "sub_name": "ARMv7 Processor rev 3 (v7l)"
+  }
+}

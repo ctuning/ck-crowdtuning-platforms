@@ -1,0 +1,17 @@
+{
+  "all": [
+    {
+      "vendor": "NVIDIA",
+      "name": "NVIDIA Corporation G86M [Quadro NVS 135M] (rev a1)"
+    },
+    {
+      "vendor": "",
+      "current_freq": "177",
+      "all_freqs": [
+        " 600 543 480 420 350 266 177"
+      ],
+      "name": null
+    }
+  ],
+  "touched": 5
+}

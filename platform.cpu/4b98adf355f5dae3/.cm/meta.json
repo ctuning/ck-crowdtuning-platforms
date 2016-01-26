@@ -1,0 +1,11 @@
+{
+  "features": {
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4", 
+    "current_freq": {
+      "0": 0
+    }, 
+    "name": "SAMSUNG M2_ATT", 
+    "num_proc": "2", 
+    "sub_name": "ARMv7 Processor rev 4 (v7l)"
+  }
+}

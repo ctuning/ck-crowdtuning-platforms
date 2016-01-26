@@ -1,0 +1,12 @@
+{
+  "all": [
+    {
+      "name": "Windows 7", 
+      "ck_os_uoa": "windows-64", 
+      "name_short": "Windows 7", 
+      "ck_os_base_uoa": "", 
+      "bits": "64", 
+      "name_long": "Windows-7-6.1.7601-SP1"
+    }
+  ]
+}

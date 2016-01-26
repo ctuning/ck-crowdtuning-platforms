@@ -1,0 +1,11 @@
+{
+  "features": {
+    "cpu_features": "fpu de pse tsc msr pae mce cx8 apic sep pge cmov mmx fxsr sse sse2 pni ssse3", 
+    "current_freq": {
+      "0": 2010.316
+    }, 
+    "name": "Pentium II (Klamath)", 
+    "num_proc": "1", 
+    "sub_name": "Pentium II (Klamath)"
+  }
+}

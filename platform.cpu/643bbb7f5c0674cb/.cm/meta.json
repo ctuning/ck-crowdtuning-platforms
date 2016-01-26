@@ -1,0 +1,11 @@
+{
+  "features": {
+    "cpu_features": "", 
+    "current_freq": {
+      "0": 1300.0
+    }, 
+    "name": "Intel Itanium 2", 
+    "num_proc": "1", 
+    "sub_name": "Intel Itanium 2"
+  }
+}

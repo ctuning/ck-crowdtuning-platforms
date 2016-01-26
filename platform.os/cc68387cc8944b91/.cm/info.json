@@ -1,0 +1,20 @@
+{
+  "backup_data_uid": "cc68387cc8944b91", 
+  "backup_module_uid": "41e31cc4496b8a8e", 
+  "backup_module_uoa": "platform.os", 
+  "control": {
+    "author": "cTuning foundation", 
+    "author_email": "admin@cTuning.org", 
+    "author_webpage": "http://cTuning.org", 
+    "copyright": "See CK Copyright.txt for copyright details", 
+    "engine": "CK", 
+    "iso_datetime": "2015-06-02T11:26:50.826079", 
+    "license": "See CK LICENSE.txt for licensing details", 
+    "version": [
+      "1", 
+      "2", 
+      "0514"
+    ]
+  }, 
+  "data_name": "Android 4.2.2"
+}

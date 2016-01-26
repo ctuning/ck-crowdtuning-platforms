@@ -1,0 +1,26 @@
+{
+  "touched": 1,
+  "all": [
+    {
+      "cpu_features": "swp half thumb fastmult vfp edsp thumbee neon vfpv3 tls vfpv4 idiva idivt",
+      "sub_name": "ARMv7 Processor rev 4 (v7l)",
+      "max_freq": {
+        "0": "1056.0",
+        "1": "1056.0"
+      },
+      "name": "sun7i",
+      "cpu_abi": "armeabi-v7a",
+      "num_proc": "2"
+    },
+    {
+      "cpu_features": "swp half thumb fastmult vfp edsp thumbee neon vfpv3 tls vfpv4 idiva idivt",
+      "num_proc": "2",
+      "max_freq": {
+        "0": 1056
+      },
+      "name": "sun7i",
+      "cpu_abi": "armeabi-v7a",
+      "sub_name": "ARMv7 Processor rev 4 (v7l)"
+    }
+  ]
+}

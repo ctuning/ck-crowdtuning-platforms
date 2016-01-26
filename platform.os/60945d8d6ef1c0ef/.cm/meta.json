@@ -1,0 +1,10 @@
+{
+  "features": {
+    "bits": "32", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-32", 
+    "name": "Ubuntu 14.04.2 LTS", 
+    "name_long": "Linux-3.10.69-armv7l-with-Ubuntu-14.04-trusty", 
+    "name_short": "Linux 3.10.69"
+  }
+}

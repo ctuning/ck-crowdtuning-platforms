@@ -1,0 +1,14 @@
+{
+  "all": [
+    {
+      "cpu_abi": "armeabi-v7a",
+      "sub_name": "ARMv7 Processor rev 1 (v7l)",
+      "num_proc": "1",
+      "name": "QCT MSM7625a FFA",
+      "max_freq": {
+        "0": 1008
+      },
+      "cpu_features": "swp half thumb fastmult vfp edsp thumbee neon vfpv3 tls vfpv4"
+    }
+  ]
+}

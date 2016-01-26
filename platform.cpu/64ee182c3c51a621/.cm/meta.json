@@ -1,0 +1,36 @@
+{
+  "features": {
+    "all_freqs": {
+      "0": [
+        300000, 
+        422400, 
+        652800, 
+        729600, 
+        883200, 
+        960000, 
+        1036800, 
+        1190400, 
+        1267200, 
+        1497600, 
+        1574400, 
+        1728000, 
+        1958400, 
+        2150400
+      ], 
+      "1": [], 
+      "2": [], 
+      "3": []
+    }, 
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt", 
+    "current_freq": {
+      "0": 2150.4
+    }, 
+    "max_freq": {
+      "0": 2150.4
+    }, 
+    "name": "Qualcomm MSM 8974 (Flattened Device Tree)", 
+    "num_proc": "4", 
+    "sub_name": "Qualcomm MSM 8974 (Flattened Device Tree)"
+  }
+}

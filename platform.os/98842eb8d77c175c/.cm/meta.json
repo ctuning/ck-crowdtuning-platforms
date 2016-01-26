@@ -1,0 +1,7 @@
+{
+  "features": {
+    "name": "compatibility - Linux version 2.6.32", 
+    "name_long": "Linux version 2.6.32-5-amd64 (Debian 2.6.32-46) (dannf@debian.org) (gcc version 4.3.5 (Debian 4.3.5-4) ) #1 SMP Sun Sep 23 10:07:46 UTC 2012", 
+    "name_short": "Linux version 2.6.32"
+  }
+}

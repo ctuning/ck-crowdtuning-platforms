@@ -1,0 +1,7 @@
+{
+  "features": {
+    "name": "compatibility - Linux version 2.6.39.4", 
+    "name_long": "Linux version 2.6.39.4-g4e32b94 (android-build@vpbs1.mtv.corp.google.com) (gcc version 4.6.x-google 20120106 (prerelease) (GCC) ) #1 SMP PREEMPT Mon Sep 10 14:01:08 PDT 2012", 
+    "name_short": "Linux version 2.6.39.4"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "all": [
+    {
+      "name": "Ubuntu 14.10", 
+      "ck_os_uoa": "linux-64", 
+      "name_short": "Linux 3.16.0", 
+      "ck_os_base_uoa": "", 
+      "bits": "64", 
+      "name_long": "Linux-3.16.0-38-generic-x86_64-with-Ubuntu-14.10-utopic"
+    }
+  ]
+}

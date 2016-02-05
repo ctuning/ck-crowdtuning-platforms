@@ -1,10 +1,10 @@
 {
   "all": [
     {
-      "name": "SAMSUNG GT-S6312",
-      "vendor": "SAMSUNG",
-      "model": "GT-S6312"
+      "model": "GT-S6312", 
+      "vendor": "SAMSUNG", 
+      "name": "SAMSUNG GT-S6312"
     }
-  ],
-  "touched": 1
+  ], 
+  "touched": 8
 }

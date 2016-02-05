@@ -1,16 +1,16 @@
 {
   "all": [
     {
-      "vendor": "Qualcomm",
+      "vendor": "Qualcomm", 
       "name": "Qualcomm Adreno (TM) 200"
-    },
+    }, 
     {
-      "possibly_related_cpu_name": "",
-      "current_freq": "",
-      "all_freqs": [],
-      "vendor": "Qualcomm",
+      "vendor": "Qualcomm", 
+      "possibly_related_cpu_name": "", 
+      "all_freqs": [], 
+      "current_freq": "", 
       "name": "Qualcomm Adreno (TM) 200"
     }
-  ],
-  "touched": 1
+  ], 
+  "touched": 8
 }

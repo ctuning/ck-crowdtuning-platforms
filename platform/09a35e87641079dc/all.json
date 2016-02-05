@@ -1,10 +1,10 @@
 {
-  "touched": 27,
   "all": [
     {
-      "model": "20ALCTO1WW",
-      "name": "LENOVO ThinkPad X240 (20ALCTO1WW)",
-      "vendor": "LENOVO"
+      "model": "20ALCTO1WW", 
+      "vendor": "LENOVO", 
+      "name": "LENOVO ThinkPad X240 (20ALCTO1WW)"
     }
-  ]
+  ], 
+  "touched": 116
 }

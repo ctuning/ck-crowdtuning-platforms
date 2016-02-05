@@ -1,0 +1,13 @@
+{
+  "touched": 3,
+  "all": [
+    {
+      "name": "Ubuntu 15.10",
+      "bits": "64",
+      "ck_os_uoa": "linux-64",
+      "ck_os_base_uoa": "",
+      "name_long": "Linux-4.2.0-25-generic-x86_64-with-debian-jessie-sid",
+      "name_short": "Linux 4.2.0"
+    }
+  ]
+}

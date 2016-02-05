@@ -1,25 +1,25 @@
 {
-  "touched": 11,
   "all": [
     {
-      "name": "Android 4.2.2",
-      "bits": "32",
-      "name_short": "Linux version 3.4.5",
+      "name_short": "Linux version 3.4.5", 
+      "bits": "32", 
+      "name": "Android 4.2.2", 
       "name_long": "Linux version 3.4.5 (z00182893@ubuntu) (gcc version 4.6.x-google 20120106 (prerelease) (GCC) ) #1 SMP PREEMPT Thu Aug 14 21:28:23 CST 2014"
-    },
+    }, 
     {
-      "ck_os_uoa": "android19-arm",
-      "name_short": "Linux version 3.4.5",
-      "ck_os_base_uoa": "",
-      "bits": "32",
-      "name": "Android 4.2.2",
+      "name": "Android 4.2.2", 
+      "ck_os_uoa": "android19-arm", 
+      "name_short": "Linux version 3.4.5", 
+      "ck_os_base_uoa": "", 
+      "bits": "32", 
       "name_long": "Linux version 3.4.5 (z00182893@ubuntu) (gcc version 4.6.x-google 20120106 (prerelease) (GCC) ) #1 SMP PREEMPT Thu Aug 14 21:28:23 CST 2014"
-    },
+    }, 
     {
-      "name": "Android 4.2.2",
-      "bits": "32",
-      "name_short": "Linux version 3.3.0",
+      "name_short": "Linux version 3.3.0", 
+      "bits": "32", 
+      "name": "Android 4.2.2", 
       "name_long": "Linux version 3.3.0 (zhengzhenxing@brn-zhengzhenxing) (gcc version 4.6.3 20120201 (prerelease) (crosstool-NG linaro-1.13.1-2012.02-20120222 - Linaro GCC 2012.02) ) #1 SMP PREEMPT Thu Sep 26 16:33:59 CST 2013"
     }
-  ]
+  ], 
+  "touched": 17
 }

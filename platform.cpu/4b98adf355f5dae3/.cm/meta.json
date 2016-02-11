@@ -1,5 +1,6 @@
 {
   "features": {
+    "compile_tags": "arm-neon", 
     "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4", 
     "current_freq": {
       "0": 0

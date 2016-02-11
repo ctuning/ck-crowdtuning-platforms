@@ -1,6 +1,7 @@
 {
   "features": {
     "cpu_features": "swp half thumb fastmult vfp edsp java", 
+    "compile_tags": "arm-specific", 
     "current_freq": {
       "0": 0
     }, 

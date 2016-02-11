@@ -1,5 +1,6 @@
 {
   "features": {
+    "compile_tags": "arm-neon,arm-specific", 
     "name": "ARMv7 Processor rev 1 (v7l)", 
     "sub_name": "ARMv7 Processor rev 1 (v7l)"
   }

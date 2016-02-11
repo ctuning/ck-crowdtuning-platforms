@@ -1,6 +1,6 @@
 {
   "features": {
-    "compile_tags": "arm-neon", 
+    "compile_tags": "arm-neon,arm-specific", 
     "all_freqs": {
       "0": [
         300000, 

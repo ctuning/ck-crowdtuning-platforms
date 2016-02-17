@@ -1,0 +1,1 @@
+* 2016.02.17 - changing platform.accelerator to platform.gpu (to reflect what is detected correctly)

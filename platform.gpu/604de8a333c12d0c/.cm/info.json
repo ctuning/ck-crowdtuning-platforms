@@ -1,14 +1,14 @@
 {
-  "backup_data_uid": "0dc40e3a3516e10f", 
+  "backup_data_uid": "604de8a333c12d0c", 
   "backup_module_uid": "55ec7775f4afaabd", 
-  "backup_module_uoa": "platform.accelerator", 
+  "backup_module_uoa": "platform.gpu", 
   "control": {
     "author": "cTuning foundation", 
     "author_email": "admin@cTuning.org", 
     "author_webpage": "http://cTuning.org", 
     "copyright": "See CK Copyright.txt for copyright details", 
     "engine": "CK", 
-    "iso_datetime": "2015-06-02T11:41:05.973879", 
+    "iso_datetime": "2015-06-02T12:23:10.244996", 
     "license": "See CK LICENSE.txt for licensing details", 
     "version": [
       "1", 
@@ -16,5 +16,5 @@
       "0514"
     ]
   }, 
-  "data_name": "NVIDIA Corporation G86M [Quadro NVS 135M] (rev a1)"
+  "data_name": "Intel Corporation Haswell-ULT Integrated Graphics Controller (rev 0b)"
 }

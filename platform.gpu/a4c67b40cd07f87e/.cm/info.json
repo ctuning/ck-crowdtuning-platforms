@@ -1,14 +1,14 @@
 {
-  "backup_data_uid": "8f2cf3c6b5417d81",
+  "backup_data_uid": "a4c67b40cd07f87e",
   "backup_module_uid": "55ec7775f4afaabd",
-  "backup_module_uoa": "platform.accelerator",
+  "backup_module_uoa": "platform.gpu",
   "control": {
     "author": "cTuning foundation",
     "author_email": "admin@cTuning.org",
     "author_webpage": "http://cTuning.org",
     "copyright": "See CK COPYRIGHT.txt for copyright details",
     "engine": "CK",
-    "iso_datetime": "2016-02-16T15:03:27.043687",
+    "iso_datetime": "2016-02-16T14:39:57.434362",
     "license": "See CK LICENSE.txt for licensing details",
     "version": [
       "1",
@@ -16,5 +16,5 @@
       "12x"
     ]
   },
-  "data_name": "Matrox Electronics Systems Ltd. G200eR2"
+  "data_name": "Trident Microsystems Blade 3D PCI/AGP (rev 3a)"
 }

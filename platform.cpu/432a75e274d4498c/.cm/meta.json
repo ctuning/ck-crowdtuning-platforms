@@ -1,0 +1,13 @@
+{
+  "features": {
+    "all_freqs": {},
+    "cpu_abi": "",
+    "cpu_features": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext lm 3dnowext 3dnow rep_good nopl extd_apicid vmmcall",
+    "max_freq": {
+      "0": 0
+    },
+    "name": "AMD Opteron(tm) Processor 250",
+    "num_proc": "2",
+    "sub_name": "AMD Opteron(tm) Processor 250"
+  }
+}

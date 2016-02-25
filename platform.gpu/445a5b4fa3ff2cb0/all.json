@@ -1,16 +1,16 @@
 {
   "all": [
     {
-      "name": "ARM Mali-400 MP",
-      "vendor": "ARM"
-    },
-    {
-      "current_freq": "",
-      "vendor": "ARM",
-      "all_freqs": [],
-      "possibly_related_cpu_name": "",
+      "vendor": "ARM", 
       "name": "ARM Mali-400 MP"
+    }, 
+    {
+      "vendor": "ARM", 
+      "current_freq": "", 
+      "all_freqs": [], 
+      "name": "ARM Mali-400 MP", 
+      "possibly_related_cpu_name": ""
     }
-  ],
-  "touched": 12
+  ], 
+  "touched": 13
 }

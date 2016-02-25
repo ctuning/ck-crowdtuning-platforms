@@ -1,7 +1,7 @@
 {
   "all": [
     {
-      "name": "Debian 3.16.7", 
+      "name": "Debian 8.2", 
       "ck_os_uoa": "linux-64", 
       "name_short": "Linux 3.16.0", 
       "ck_os_base_uoa": "", 
@@ -9,5 +9,5 @@
       "name_long": "Linux-3.16.0-4-amd64-x86_64-with-debian-8.2"
     }
   ], 
-  "touched": 21
+  "touched": 19
 }

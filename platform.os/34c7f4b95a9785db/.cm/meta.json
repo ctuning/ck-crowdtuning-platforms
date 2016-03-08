@@ -1,0 +1,10 @@
+{
+  "features": {
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "Gentoo Linux", 
+    "name_long": "Linux-4.2.3-gentoo-x86_64-Intel-R-_Xeon-R-_CPU_E3-1231_v3_@_3.40GHz-with-gentoo-2.2", 
+    "name_short": "Linux 4.2.3"
+  }
+}

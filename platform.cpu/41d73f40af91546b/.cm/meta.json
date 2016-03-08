@@ -1,0 +1,29 @@
+{
+  "features": {
+    "all_freqs": {
+      "0": [
+        2700000, 
+        2400000, 
+        2000000, 
+        1700000, 
+        1400000
+      ], 
+      "1": [
+        2700000, 
+        2400000, 
+        2000000, 
+        1700000, 
+        1400000
+      ]
+    }, 
+    "cpu_abi": "", 
+    "cpu_features": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 popcnt aes xsave avx f16c lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs xop skinit wdt lwp fma4 tce nodeid_msr tbm topoext perfctr_core perfctr_nb arat cpb hw_pstate npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold vmmcall bmi1", 
+    "max_freq": {
+      "0": 2700, 
+      "1": 2700
+    }, 
+    "name": "AMD A6-4400M APU with Radeon(tm) HD Graphics", 
+    "num_proc": "2", 
+    "sub_name": "AMD A6-4400M APU with Radeon(tm) HD Graphics"
+  }
+}

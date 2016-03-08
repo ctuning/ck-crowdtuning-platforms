@@ -1,0 +1,10 @@
+{
+  "features": {
+    "cpu_abi": "armeabi", 
+    "cpu_features": "swp half thumb fastmult vfp edsp java", 
+    "max_freq": {}, 
+    "name": "Goldfish", 
+    "num_proc": "0", 
+    "sub_name": "ARM926EJ-S rev 5 (v5l)"
+  }
+}

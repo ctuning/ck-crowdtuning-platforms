@@ -1,0 +1,10 @@
+{
+  "features": {
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "gentoo", 
+    "name_long": "Linux-4.4.3-gentoo-x86_64-AMD_A6-4400M_APU_with_Radeon-tm-_HD_Graphics-with-gentoo-2.2", 
+    "name_short": "Linux 4.4.3"
+  }
+}

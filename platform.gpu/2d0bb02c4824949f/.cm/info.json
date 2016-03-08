@@ -1,0 +1,20 @@
+{
+  "backup_data_uid": "2d0bb02c4824949f", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "author": "cTuning foundation", 
+    "author_email": "admin@cTuning.org", 
+    "author_webpage": "http://cTuning.org", 
+    "copyright": "See CK COPYRIGHT.txt for copyright details", 
+    "engine": "CK", 
+    "iso_datetime": "2016-03-01T18:03:34.907113", 
+    "license": "See CK LICENSE.txt for licensing details", 
+    "version": [
+      "1", 
+      "6", 
+      "13"
+    ]
+  }, 
+  "data_name": "Qualcomm Adreno (TM) 320"
+}

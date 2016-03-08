@@ -1,0 +1,15 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls", 
+    "max_freq": {
+      "0": 1600, 
+      "1": 1600, 
+      "2": 1600, 
+      "3": 1600
+    }, 
+    "name": "SMDK4x12", 
+    "num_proc": "4", 
+    "sub_name": "ARMv7 Processor rev 0 (v7l)"
+  }
+}

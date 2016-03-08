@@ -1,0 +1,7 @@
+{
+  "features": {
+    "model": "HVM domU", 
+    "name": "Xen 4.2.amazon (HVM domU)", 
+    "vendor": "Xen"
+  }
+}

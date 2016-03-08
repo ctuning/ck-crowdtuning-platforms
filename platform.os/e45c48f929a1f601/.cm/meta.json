@@ -1,0 +1,8 @@
+{
+  "features": {
+    "bits": "32", 
+    "name": "Android 4.1.1", 
+    "name_long": "Linux version 2.6.29-gc497e41 (kroot@kennyroot.mtv.corp.google.com) (gcc version 4.4.3 (GCC) ) #2 Thu Dec 8 15:07:43 PST 2011", 
+    "name_short": "Linux version 2.6.29"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "features": {
+    "bits": "32", 
+    "name": "Android 4.0.4", 
+    "name_long": "Linux version 2.6.39.4-00003-g9a9fdb6 (kim.hyeonsoo@LGEARND6B11) (gcc version 4.4.3 (GCC) ) #1 SMP PREEMPT Fri Nov 30 23:38:23 KST 2012", 
+    "name_short": "Linux version 2.6.39.4"
+  }
+}

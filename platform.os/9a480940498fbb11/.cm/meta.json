@@ -1,0 +1,8 @@
+{
+  "features": {
+    "bits": "64", 
+    "name": "Android 5.0", 
+    "name_long": "Linux version 3.10.20-x86_64_moor-265409-gee3b01d (jenkins@fdc-12-jenkins) (gcc version 4.8 (GCC) ) #1 SMP PREEMPT Tue Feb 2 16:49:00 CST 2016", 
+    "name_short": "Linux version 3.10.20"
+  }
+}

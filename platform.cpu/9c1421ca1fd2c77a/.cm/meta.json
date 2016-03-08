@@ -1,0 +1,15 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4", 
+    "max_freq": {
+      "0": 2160, 
+      "1": 2160, 
+      "2": 2160, 
+      "3": 2160
+    }, 
+    "name": "QCT APQ8064 FLO", 
+    "num_proc": "4", 
+    "sub_name": "ARMv7 Processor rev 0 (v7l)"
+  }
+}

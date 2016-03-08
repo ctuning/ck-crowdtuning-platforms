@@ -1,0 +1,13 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp vfpv3 vfpv3d16 tls", 
+    "max_freq": {
+      "0": 1400, 
+      "1": 1400
+    }, 
+    "name": "p3", 
+    "num_proc": "2", 
+    "sub_name": "ARMv7 Processor rev 0 (v7l)"
+  }
+}

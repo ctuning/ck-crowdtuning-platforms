@@ -1,3 +1,5 @@
+* 2016.03.08 - adding new platforms info from collaborative program optimization using Android-based mobile devices
+
 * 2016.02.25 - adding new platforms from GRID5000 (during GCC 6.0.0 / LLVM 3.9.0 crowdtuning)
 
 * 2016.02.17 - changing platform.accelerator to platform.gpu (to reflect what is detected correctly)

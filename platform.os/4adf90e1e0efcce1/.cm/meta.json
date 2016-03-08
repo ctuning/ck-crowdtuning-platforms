@@ -1,0 +1,8 @@
+{
+  "features": {
+    "bits": "32", 
+    "name": "Android 4.4.4", 
+    "name_long": "Linux version 3.4.0-Glitch-N7-AOSP-r226 (tk@glitch) (gcc version 4.9.2 20140904 (prerelease) (crosstool-NG linaro-1.13.1 bzr2696 - Linaro GCC 2014.09 - Cortex-A15) ) #1 SMP PREEMPT Mon Sep 22 17:41:23 CEST 2014", 
+    "name_short": "Linux version 3.4.0"
+  }
+}

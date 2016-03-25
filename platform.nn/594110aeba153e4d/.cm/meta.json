@@ -1,0 +1,8 @@
+{
+  "features": {
+    "name": "Modified hopfield neural network to learn and restore characters with noise (SW and HW)",
+    "vendor": "Grigori Fursin's research prototype (1994-1996)"
+  },
+  "extra_cid":"d76ac3bb9a3f744c:c9058860d64c22bd",
+  "notes":""
+}

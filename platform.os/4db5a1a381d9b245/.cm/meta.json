@@ -1,0 +1,8 @@
+{
+  "features": {
+    "bits": "32", 
+    "name": "Android 4.4.3", 
+    "name_long": "Linux version 3.10.17-svn18918 (yanghuanhuan@topwise-s8) (gcc version 4.7 (GCC) ) #1 SMP PREEMPT Mon Jul 13 12:45:02 CST 2015", 
+    "name_short": "Linux version 3.10.17"
+  }
+}

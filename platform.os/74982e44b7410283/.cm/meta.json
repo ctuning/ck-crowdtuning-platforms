@@ -1,0 +1,10 @@
+{
+  "features": {
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "openSUSE 13.2", 
+    "name_long": "Linux-3.16.7-24-desktop-x86_64-with-SuSE-13.2-x86_64", 
+    "name_short": "Linux 3.16.7"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "features": {
+    "all_freqs": {
+      "0": [
+        1995000, 
+        1862000, 
+        1729000, 
+        1596000
+      ], 
+      "1": [
+        1995000, 
+        1862000, 
+        1729000, 
+        1596000
+      ], 
+      "2": [
+        1995000, 
+        1862000, 
+        1729000, 
+        1596000
+      ], 
+      "3": [
+        1995000, 
+        1862000, 
+        1729000, 
+        1596000
+      ]
+    }, 
+    "cpu_abi": "", 
+    "cpu_features": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm dtherm tpr_shadow vnmi flexpriority ept vpid", 
+    "max_freq": {
+      "0": 1995, 
+      "1": 1995, 
+      "2": 1995, 
+      "3": 1995
+    }, 
+    "name": "Intel(R) Xeon(R) CPU           E5504  @ 2.00GHz", 
+    "num_proc": "4", 
+    "sub_name": "Intel(R) Xeon(R) CPU           E5504  @ 2.00GHz"
+  }
+}

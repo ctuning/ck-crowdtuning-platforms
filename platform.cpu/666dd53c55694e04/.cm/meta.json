@@ -1,0 +1,10 @@
+{
+  "features": {
+    "cpu_abi": "x86", 
+    "cpu_features": "", 
+    "max_freq": {}, 
+    "name": "Intel(R) Atom(TM) CPU  Z3735G @ 1.33GHz", 
+    "num_proc": "0", 
+    "sub_name": "Intel(R) Atom(TM) CPU  Z3735G @ 1.33GHz"
+  }
+}

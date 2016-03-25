@@ -1,0 +1,8 @@
+{
+  "features": {
+    "bits": "32", 
+    "name": "Android 4.3", 
+    "name_long": "Linux version 3.0.31-2713958 (dpi@DELL318) (gcc version 4.4.3 (GCC) ) #1 SMP PREEMPT Wed Jul 16 17:22:49 KST 2014", 
+    "name_short": "Linux version 3.0.31"
+  }
+}

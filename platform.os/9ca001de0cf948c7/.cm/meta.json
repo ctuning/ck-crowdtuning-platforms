@@ -1,0 +1,8 @@
+{
+  "features": {
+    "bits": "32", 
+    "name": "Android 6.0", 
+    "name_long": "Linux version 3.10.84-g206a0cd (lgmobile@LGEACI5R1) (gcc version 4.9.x-google 20140827 (prerelease) (GCC) ) #1 SMP PREEMPT Wed Jan 27 21:31:01 KST 2016", 
+    "name_short": "Linux version 3.10.84"
+  }
+}

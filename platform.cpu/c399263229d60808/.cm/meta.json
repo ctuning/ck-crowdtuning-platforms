@@ -1,0 +1,17 @@
+{
+  "features": {
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd aes pmull sha1 sha2 crc32", 
+    "max_freq": {
+      "0": 1497.6, 
+      "3": 1497.6, 
+      "4": 1113.6, 
+      "5": 1113.6, 
+      "6": 1113.6, 
+      "7": 1113.6
+    }, 
+    "name": "Qualcomm Technologies, Inc MSM8939", 
+    "num_proc": "8", 
+    "sub_name": "AArch64 Processor rev 1 (aarch64)"
+  }
+}

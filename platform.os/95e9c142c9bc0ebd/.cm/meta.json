@@ -1,0 +1,8 @@
+{
+  "features": {
+    "bits": "32", 
+    "name": "Android 5.1.1", 
+    "name_long": "Linux version 3.10.49-cyanogen-ge4cc700 (build02@cyanogen) (gcc version 4.9.x-google 20140827 (prerelease) (GCC) ) #1 SMP PREEMPT Fri Dec 18 10:16:30 PST 2015", 
+    "name_short": "Linux version 3.10.49"
+  }
+}

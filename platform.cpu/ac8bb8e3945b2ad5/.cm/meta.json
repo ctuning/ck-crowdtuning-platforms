@@ -1,0 +1,13 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4", 
+    "max_freq": {
+      "0": 1512, 
+      "1": 1512
+    }, 
+    "name": "QCT APQ8064 MAKO", 
+    "num_proc": "4", 
+    "sub_name": "ARMv7 Processor rev 2 (v7l)"
+  }
+}

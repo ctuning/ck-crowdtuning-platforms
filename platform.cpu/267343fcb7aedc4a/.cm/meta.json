@@ -1,0 +1,15 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt", 
+    "max_freq": {
+      "0": 1300, 
+      "1": 1300, 
+      "2": 1300, 
+      "3": 1300
+    }, 
+    "name": "MT6580", 
+    "num_proc": "4", 
+    "sub_name": "ARMv7 Processor rev 3 (v7l)"
+  }
+}

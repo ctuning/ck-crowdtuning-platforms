@@ -1,0 +1,8 @@
+{
+  "features": {
+    "bits": "32", 
+    "name": "Android 5.1", 
+    "name_long": "Linux version 3.10.72 (buildsrv3@buildsrv3) (gcc version 4.8 (GCC) ) #1 SMP PREEMPT Tue Jan 19 14:46:38 CST 2016", 
+    "name_short": "Linux version 3.10.72"
+  }
+}

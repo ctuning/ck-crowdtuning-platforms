@@ -1,0 +1,13 @@
+{
+  "features": {
+    "all_freqs": {}, 
+    "cpu_abi": "", 
+    "cpu_features": "fpu de tsc msr pae cx8 apic sep cmov pat clflush mmx fxsr sse sse2 ss ht syscall nx lm constant_tsc rep_good nopl pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 popcnt tsc_deadline_timer aes avx hypervisor lahf_lm ida arat xsaveopt pln pts dtherm", 
+    "max_freq": {
+      "0": 0
+    }, 
+    "name": "Intel(R) Xeon(R) CPU E5-2650 0 @ 2.00GHz", 
+    "num_proc": "2", 
+    "sub_name": "Intel(R) Xeon(R) CPU E5-2650 0 @ 2.00GHz"
+  }
+}

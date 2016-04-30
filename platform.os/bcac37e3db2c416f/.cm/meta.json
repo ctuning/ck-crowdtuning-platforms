@@ -1,0 +1,8 @@
+{
+  "features": {
+    "bits": "32", 
+    "name": "Android 4.2.1", 
+    "name_long": "Linux version 3.4.5 (jenkins@glsrv4) (gcc version 4.6.x-google 20120106 (prerelease) (GCC) ) #1 SMP PREEMPT Sat Sep 7 09:00:00 CST 2013", 
+    "name_short": "Linux version 3.4.5"
+  }
+}

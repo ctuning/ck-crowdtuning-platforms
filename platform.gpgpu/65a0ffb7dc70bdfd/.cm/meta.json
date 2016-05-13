@@ -1,0 +1,13 @@
+{
+  "features": {
+    "name": "Intel(R) HD Graphics 4400", 
+    "type": "opencl", 
+    "vendor": "Intel(R) Corporation"
+  }, 
+  "features_misc": {
+    "hardware (device) version": "OpenCL 1.2", 
+    "opencl c version": "OpenCL C 1.2", 
+    "parallel compute units": "20", 
+    "software (driver) version": "20.19.15.4380"
+  }
+}

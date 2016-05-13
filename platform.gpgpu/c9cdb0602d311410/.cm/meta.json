@@ -1,0 +1,13 @@
+{
+  "features": {
+    "name": "Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz", 
+    "type": "opencl", 
+    "vendor": "Intel(R) Corporation"
+  }, 
+  "features_misc": {
+    "hardware (device) version": "OpenCL 1.2 (Build 10094)", 
+    "opencl c version": "OpenCL C 1.2", 
+    "parallel compute units": "4", 
+    "software (driver) version": "5.2.0.10094"
+  }
+}

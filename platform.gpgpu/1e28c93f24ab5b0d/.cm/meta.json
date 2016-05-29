@@ -1,0 +1,24 @@
+{
+  "features": {
+    "name": "Tesla M2075", 
+    "type": "cuda"
+  }, 
+  "features_misc": {
+    "cuda driver version": "7.0", 
+    "cuda runtime version": "7.0", 
+    "global memory": "5636554752", 
+    "gpu compute capability": "2.0", 
+    "max clock rate": "1147.000000 MHz", 
+    "max dimension size of a grid size x": "65535", 
+    "max dimension size of a grid size y": "65535", 
+    "max dimension size of a grid size z": "65535", 
+    "max dimension size of a thread block x": "1024", 
+    "max dimension size of a thread block y": "1024", 
+    "max dimension size of a thread block z": "64", 
+    "maximum number of threads per block": "1024", 
+    "maximum number of threads per multiprocessor": "1536", 
+    "total amount of shared memory per block": "49152", 
+    "total number of registers available per block": "32768", 
+    "warp size": "32"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "features": {
+    "name": "Intel(R) Xeon(R) CPU E5-2630 0 @ 2.30GHz", 
+    "type": "opencl", 
+    "vendor": "GenuineIntel"
+  }, 
+  "features_misc": {
+    "hardware (device) version": "OpenCL 1.2 AMD-APP (1800.11)", 
+    "opencl c version": "OpenCL C 1.2", 
+    "parallel compute units": "12", 
+    "software (driver) version": "1800.11 (sse2,avx)"
+  }
+}

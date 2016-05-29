@@ -1,0 +1,33 @@
+{
+  "features": {
+    "all_freqs": {
+      "0": [
+        2400000, 
+        1600000
+      ], 
+      "1": [
+        2400000, 
+        1600000
+      ], 
+      "2": [
+        2400000, 
+        1600000
+      ], 
+      "3": [
+        2400000, 
+        1600000
+      ]
+    }, 
+    "cpu_abi": "", 
+    "cpu_features": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good nopl aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm lahf_lm dtherm tpr_shadow vnmi flexpriority", 
+    "max_freq": {
+      "0": 2400, 
+      "1": 2400, 
+      "2": 2400, 
+      "3": 2400
+    }, 
+    "name": "Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz", 
+    "num_proc": "4", 
+    "sub_name": "Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz"
+  }
+}

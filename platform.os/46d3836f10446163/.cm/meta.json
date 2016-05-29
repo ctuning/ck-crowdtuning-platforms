@@ -1,0 +1,10 @@
+{
+  "features": {
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "Gnu", 
+    "name_long": "Linux-4.4.2-gentoo_Jarvis-x86_64-Intel-R-_Core-TM-_i5_CPU_750_@_2.67GHz-with-gentoo-2.2", 
+    "name_short": "Linux 4.4.2"
+  }
+}

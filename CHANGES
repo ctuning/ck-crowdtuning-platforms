@@ -1,3 +1,5 @@
+* 2016.05.29 - adding new platforms collected in CK repo (now in Azure)
+
 * 2016.05.13 - adding new GPGPU platforms (preparing OpenCL/CUDA crowdtuning)
 
 * 2016.04.30 - adding new platforms from GCC/LLVM and OpenCL crowdtuning

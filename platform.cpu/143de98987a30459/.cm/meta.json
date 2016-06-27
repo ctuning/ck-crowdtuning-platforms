@@ -1,0 +1,19 @@
+{
+  "features": {
+    "CPU architecture": "8",
+    "CPU implementer": "0x41",
+    "CPU part": "0xd03",
+    "CPU revision": "4",
+    "CPU variant": "0x0",
+    "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32",
+    "ck_cpu_name": "0x41-8-0x0-0xd03-4",
+    "cpu_abi": "arm64-v8a",
+    "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32",
+    "cur_freq": 442.0,
+    "max_freq": 1586.0,
+    "new_format": "yes",
+    "processor": "0",
+    "ck_processor_real_name":"Samsung Exynos Octa 8890",
+    "ck_arch_real_name":"ARM Cortex-A53"
+  }
+}

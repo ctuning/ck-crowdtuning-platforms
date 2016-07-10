@@ -1,0 +1,25 @@
+{
+  "features": {
+    "all_freqs": {
+      "0": [], 
+      "1": [], 
+      "2": [], 
+      "3": [], 
+      "4": [], 
+      "5": []
+    }, 
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+    "max_freq": {
+      "0": 1586, 
+      "1": 1586, 
+      "2": 1586, 
+      "3": 1586, 
+      "4": 2600, 
+      "5": 2600
+    }, 
+    "name": "Samsung Exynos Octa 8890", 
+    "num_proc": "6", 
+    "sub_name": ""
+  }
+}

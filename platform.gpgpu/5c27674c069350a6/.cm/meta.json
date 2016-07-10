@@ -1,0 +1,13 @@
+{
+  "features": {
+    "name": "Mali-T880", 
+    "type": "opencl", 
+    "vendor": "ARM"
+  }, 
+  "features_misc": {
+    "hardware (device) version": "OpenCL 1.2 v1.r9p0-12dev0.c2bae768d87bf40047e1f310c8de7f16", 
+    "opencl c version": "OpenCL C 1.2 v1.r9p0-12dev0.c2bae768d87bf40047e1f310c8de7f16", 
+    "parallel compute units": "12", 
+    "software (driver) version": "1.2"
+  }
+}

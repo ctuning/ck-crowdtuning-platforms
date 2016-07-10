@@ -1,0 +1,20 @@
+{
+  "backup_data_uid": "b42546d39fb6c4a4", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "author": "cTuning foundation", 
+    "author_email": "admin@cTuning.org", 
+    "author_webpage": "http://cTuning.org", 
+    "copyright": "See CK COPYRIGHT.txt for copyright details", 
+    "engine": "CK", 
+    "iso_datetime": "2016-06-13T07:11:28.561436", 
+    "license": "See CK LICENSE.txt for licensing details", 
+    "version": [
+      "1", 
+      "7", 
+      "2dev"
+    ]
+  }, 
+  "data_name": "ASUSTeK COMPUTER INC. Rev 1.xx (TS500-E8-PS4)"
+}

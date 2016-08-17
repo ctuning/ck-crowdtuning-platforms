@@ -1,0 +1,14 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32", 
+    "max_freq": {
+      "0": 2649.6, 
+      "1": 2649.6, 
+      "2": 2649.6
+    }, 
+    "name": "Qualcomm APQ8084", 
+    "num_proc": "4", 
+    "sub_name": ""
+  }
+}

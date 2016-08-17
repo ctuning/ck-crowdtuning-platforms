@@ -1,0 +1,10 @@
+{
+  "features": {
+    "cpu_abi": "x86", 
+    "cpu_features": "", 
+    "max_freq": {}, 
+    "name": "----", 
+    "num_proc": "0", 
+    "sub_name": ""
+  }
+}

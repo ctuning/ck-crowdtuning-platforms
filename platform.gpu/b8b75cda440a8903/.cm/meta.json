@@ -1,0 +1,10 @@
+{
+  "features": {
+    "all_freqs": [
+      " 600 543 480 420 350 266 177"
+    ], 
+    "current_freq": "600", 
+    "name": "MALI-T628", 
+    "vendor": "ARM"
+  }
+}

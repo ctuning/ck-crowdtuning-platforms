@@ -1,0 +1,13 @@
+{
+  "features": {
+    "all_freqs": {}, 
+    "cpu_abi": "", 
+    "cpu_features": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts mmx fxsr sse sse2 ss nx rdtscp lm constant_tsc up arch_perfmon pebs bts xtopology tsc_reliable nonstop_tsc aperfmperf pni pclmulqdq ssse3 cx16 sse4_1 sse4_2 popcnt aes hypervisor lahf_lm ida arat epb dtherm", 
+    "max_freq": {
+      "0": 0
+    }, 
+    "name": "Intel(R) Xeon(R) CPU           E5620  @ 2.40GHz", 
+    "num_proc": "1", 
+    "sub_name": "Intel(R) Xeon(R) CPU           E5620  @ 2.40GHz"
+  }
+}

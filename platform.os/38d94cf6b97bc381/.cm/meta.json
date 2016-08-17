@@ -1,0 +1,10 @@
+{
+  "features": {
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "Ubuntu 16.04.1 LTS", 
+    "name_long": "Linux-4.4.0-31-generic-x86_64-with-Ubuntu-16.04-xenial", 
+    "name_short": "Linux 4.4.0"
+  }
+}

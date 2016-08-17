@@ -1,0 +1,12 @@
+{
+  "features": {
+    "cpu_abi": "", 
+    "cpu_features": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clfsh ds acpi mmx fxsr sse sse2 ss htt tm pbe sse3 pclmulqdq dtes64 mon dscpl vmx est tm2 ssse3 fma cx16 tpr pdcm sse4.1 sse4.2 x2apic movbe popcnt aes pcid xsave osxsave seglim64 tsctmr avx1.0 rdrand f16c", 
+    "max_freq": {
+      "0": 2600
+    }, 
+    "name": "Intel(R) Core(TM) i5-4278U CPU @ 2.60GHz", 
+    "num_proc": "4", 
+    "sub_name": "Intel(R) Core(TM) i5-4278U CPU @ 2.60GHz"
+  }
+}

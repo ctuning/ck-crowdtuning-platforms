@@ -1,0 +1,9 @@
+{
+  "features": {
+    "all_freqs": [], 
+    "current_freq": "", 
+    "name": "ARM Mali-T880", 
+    "possibly_related_cpu_name": "", 
+    "vendor": "ARM"
+  }
+}

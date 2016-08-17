@@ -1,0 +1,20 @@
+{
+  "backup_data_uid": "402492e22219304f", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "author": "cTuning foundation", 
+    "author_email": "admin@cTuning.org", 
+    "author_webpage": "http://cTuning.org", 
+    "copyright": "See CK COPYRIGHT.txt for copyright details", 
+    "engine": "CK", 
+    "iso_datetime": "2016-07-12T00:41:27.859238", 
+    "license": "See CK LICENSE.txt for licensing details", 
+    "version": [
+      "1", 
+      "7", 
+      "3dev"
+    ]
+  }, 
+  "data_name": "UNKNOWN FULL ANDROID ON EMULATOR"
+}

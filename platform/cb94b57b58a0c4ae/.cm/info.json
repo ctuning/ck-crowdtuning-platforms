@@ -1,0 +1,20 @@
+{
+  "backup_data_uid": "cb94b57b58a0c4ae", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "author": "cTuning foundation", 
+    "author_email": "admin@cTuning.org", 
+    "author_webpage": "http://cTuning.org", 
+    "copyright": "See CK COPYRIGHT.txt for copyright details", 
+    "engine": "CK", 
+    "iso_datetime": "2016-09-07T06:26:00.009096", 
+    "license": "See CK LICENSE.txt for licensing details", 
+    "version": [
+      "1", 
+      "8", 
+      "1dev"
+    ]
+  }, 
+  "data_name": "MOTOROLA NEXUS 6"
+}

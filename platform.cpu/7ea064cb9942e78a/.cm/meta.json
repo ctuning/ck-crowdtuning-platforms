@@ -1,0 +1,14 @@
+{
+  "features": {
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+    "max_freq": {
+      "0": 1144, 
+      "1": 1144, 
+      "2": 1144
+    }, 
+    "name": "MT6755", 
+    "num_proc": "8", 
+    "sub_name": "AArch64 Processor rev 2 (aarch64)"
+  }
+}

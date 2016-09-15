@@ -1,0 +1,8 @@
+{
+  "features": {
+    "bits": "32", 
+    "name": "Android 7.0", 
+    "name_long": "Linux version 3.10.73-ElementalX-N5X-3.04 (aaron@bella) (gcc version 4.9.x-google 20140827 (prerelease) (GCC) ) #1 SMP PREEMPT Tue Aug 2 20:14:09 EDT 2016", 
+    "name_short": "Linux version 3.10.73"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "features": {
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "Ubuntu 14.04.5 LTS", 
+    "name_long": "Linux-3.13.0-87-generic-x86_64-with-Ubuntu-14.04-trusty", 
+    "name_short": "Linux 3.13.0"
+  }
+}

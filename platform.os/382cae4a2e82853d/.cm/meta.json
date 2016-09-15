@@ -1,0 +1,8 @@
+{
+  "features": {
+    "bits": "32", 
+    "name": "Android 5.0.1", 
+    "name_long": "Linux version 3.10.61-gcd3fde7 (android@localhost) (gcc version 4.9 20140514 (prerelease) (GCC) ) #2 SMP PREEMPT Wed Mar 23 22:53:11 CST 2016", 
+    "name_short": "Linux version 3.10.61"
+  }
+}

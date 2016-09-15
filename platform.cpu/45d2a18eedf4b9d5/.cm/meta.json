@@ -1,0 +1,15 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4", 
+    "max_freq": {
+      "0": 1890, 
+      "1": 1890, 
+      "2": 1890, 
+      "3": 1890
+    }, 
+    "name": "SAMSUNG JF", 
+    "num_proc": "4", 
+    "sub_name": "ARMv7 Processor rev 0 (v7l)"
+  }
+}

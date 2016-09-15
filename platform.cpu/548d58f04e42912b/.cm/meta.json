@@ -1,0 +1,10 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp thumbee neon vfpv3", 
+    "max_freq": {}, 
+    "name": "MSM7x27a U8655Pro BOARD", 
+    "num_proc": "0", 
+    "sub_name": "ARMv7 Processor rev 1 (v7l)"
+  }
+}

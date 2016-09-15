@@ -1,0 +1,19 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt", 
+    "max_freq": {
+      "0": 1300, 
+      "1": 1300, 
+      "2": 1300, 
+      "3": 1300, 
+      "4": 1900, 
+      "5": 1900, 
+      "6": 1900, 
+      "7": 1900
+    }, 
+    "name": "universal5422", 
+    "num_proc": "8", 
+    "sub_name": ""
+  }
+}

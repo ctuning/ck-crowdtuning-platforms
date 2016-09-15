@@ -1,0 +1,10 @@
+{
+  "features": {
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "Linux 3.16.0", 
+    "name_long": "Linux-3.16.0-4-amd64-x86_64-with-debian-8.5", 
+    "name_short": "Linux 3.16.0"
+  }
+}

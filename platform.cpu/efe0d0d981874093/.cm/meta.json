@@ -1,0 +1,10 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "neon vfp swp half thumb fastmult edsp vfpv3 vfpv4 idiva idivt", 
+    "max_freq": {}, 
+    "name": "placeholder", 
+    "num_proc": "0", 
+    "sub_name": "ARMv7 processor rev 1 (v7l)"
+  }
+}

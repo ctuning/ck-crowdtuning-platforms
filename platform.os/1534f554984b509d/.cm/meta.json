@@ -1,0 +1,11 @@
+{
+  "features": {
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "android22-arm64", 
+    "name": "Android ", 
+    "name_long": "It appears you do not have 'Android SDK Platform-tools' installed.", 
+    "name_short": "It appears you do not have 'Android SDK Platform-tools' installed.", 
+    "serial_number": "It appears you do not have 'Android SDK Platform-tools' installed.\nUse the 'android' tool to install them: \n    android update sdk --no-ui --filter 'platform-tools'"
+  }
+}

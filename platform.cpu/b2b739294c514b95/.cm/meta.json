@@ -1,0 +1,34 @@
+{
+  "features": {
+    "all_freqs": {
+      "0": [
+        1001000, 
+        910000, 
+        819000, 
+        689000, 
+        598000, 
+        494000, 
+        338000, 
+        156000
+      ]
+    }, 
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd aes pmull sha1 sha2 crc32", 
+    "max_freq": {
+      "0": 1001
+    }, 
+    "name": "MT6755M", 
+    "num_proc": "1", 
+    "sub_name": "AArch64 Processor rev 2 (aarch64)", 
+    "workload_automation": {
+      "device_config": {
+        "core_clusters": [
+          0
+        ], 
+        "core_names": [
+          "MT6755M"
+        ]
+      }
+    }
+  }
+}

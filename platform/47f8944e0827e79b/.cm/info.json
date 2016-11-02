@@ -1,0 +1,20 @@
+{
+  "backup_data_uid": "47f8944e0827e79b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "author": "cTuning foundation", 
+    "author_email": "admin@cTuning.org", 
+    "author_webpage": "http://cTuning.org", 
+    "copyright": "See CK COPYRIGHT.txt for copyright details", 
+    "engine": "CK", 
+    "iso_datetime": "2016-10-26T18:02:24.781230", 
+    "license": "See CK LICENSE.txt for licensing details", 
+    "version": [
+      "1", 
+      "8", 
+      "3dev"
+    ]
+  }, 
+  "data_name": "YOTA DEVICES LIMITED YD201"
+}

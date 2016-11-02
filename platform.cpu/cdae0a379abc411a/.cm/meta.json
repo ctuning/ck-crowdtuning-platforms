@@ -1,0 +1,29 @@
+{
+  "features": {
+    "BogoMIPS": "26.00", 
+    "CPU architecture": "AArch64", 
+    "CPU implementer": "0x41", 
+    "CPU part": "0xd03", 
+    "CPU revision": "2", 
+    "CPU variant": "0x0", 
+    "Features": "fp asimd aes pmull sha1 sha2 crc32", 
+    "Processor": "AArch64 Processor rev 2 (aarch64)", 
+    "all_freqs": [
+      "0", 
+      "0", 
+      "0", 
+      "0", 
+      "0", 
+      "0", 
+      "0", 
+      "0"
+    ], 
+    "ck_cpu_name": "0x41-AArch64-0x0-0xd03-2", 
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd aes pmull sha1 sha2 crc32", 
+    "cur_freq": 1196, 
+    "max_freq": 1807, 
+    "new_format": "yes", 
+    "processor": "4"
+  }
+}

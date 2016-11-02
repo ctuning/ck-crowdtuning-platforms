@@ -1,0 +1,11 @@
+{
+  "features": {
+    "bits": "32", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-32", 
+    "name": "Linux 3.8.11", 
+    "name_long": "Linux-3.8.11-armv7l-ARMv7_Processor_rev_3_-v7l-with-gentoo-2.3", 
+    "name_short": "Linux 3.8.11", 
+    "serial_number": ""
+  }
+}

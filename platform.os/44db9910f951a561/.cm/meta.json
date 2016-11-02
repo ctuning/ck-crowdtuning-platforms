@@ -1,0 +1,8 @@
+{
+  "features": {
+    "bits": "32", 
+    "name": "Android 2.3.3", 
+    "name_long": "Linux version 2.6.35.7-I9000XWJVK-CL264237 (root@DELL106) (gcc version 4.4.0 (GCC) ) #2 PREEMPT Sat Jun 4 00:11:38 KST 2011", 
+    "name_short": "Linux version 2.6.35.7"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "all_freqs": {
+      "0": []
+    }, 
+    "cpu_abi": "armeabi", 
+    "cpu_features": "swp half thumb fastmult vfp edsp java", 
+    "max_freq": {
+      "0": 832
+    }, 
+    "name": "BCM21553 ThunderbirdEDN31 platform", 
+    "num_proc": "1", 
+    "sub_name": "ARMv6-compatible processor rev 5 (v6l)", 
+    "workload_automation": {
+      "device_config": {
+        "core_clusters": [
+          0
+        ], 
+        "core_names": [
+          "BCM21553 ThunderbirdEDN31 platform"
+        ]
+      }
+    }
+  }
+}

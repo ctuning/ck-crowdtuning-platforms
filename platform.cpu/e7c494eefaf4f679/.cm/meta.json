@@ -1,0 +1,16 @@
+{
+  "features": {
+    "all_freqs": {
+      "0": [], 
+      "1": []
+    }, 
+    "cpu_abi": "x86_64", 
+    "cpu_features": "fpu de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pse36 clflush mmx fxsr sse sse2 ht syscall nx lm rep_good nopl pni ssse3 cx16 sse4_1 sse4_2 x2apic popcnt hypervisor lahf_lm abm", 
+    "max_freq": {
+      "0": 0
+    }, 
+    "name": "QEMU Virtual CPU version 2.2.0", 
+    "num_proc": "2", 
+    "sub_name": "QEMU Virtual CPU version 2.2.0"
+  }
+}

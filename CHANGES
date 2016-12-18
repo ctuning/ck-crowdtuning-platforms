@@ -1,3 +1,5 @@
+* 2016.12.18 - added new platforms (CPU, GPGPU, GPU, OS, etc)
+
 * 2016.11.02 - added new platforms 
 
 * 2016.10.13 - added new platforms after crowd-tuning and new ARM WA crowd-benchmarking

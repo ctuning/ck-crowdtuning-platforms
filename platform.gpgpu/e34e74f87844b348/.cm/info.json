@@ -1,0 +1,21 @@
+{
+  "backup_data_uid": "e34e74f87844b348", 
+  "backup_module_uid": "192ed4e0bbdbe743", 
+  "backup_module_uoa": "platform.gpgpu", 
+  "control": {
+    "author": "cTuning foundation", 
+    "author_email": "admin@cTuning.org", 
+    "author_webpage": "http://cTuning.org", 
+    "copyright": "See CK COPYRIGHT.txt for copyright details", 
+    "engine": "CK", 
+    "iso_datetime": "2016-11-29T07:00:38.928282", 
+    "license": "See CK LICENSE.txt for licensing details", 
+    "version": [
+      "1", 
+      "8", 
+      "4", 
+      "2"
+    ]
+  }, 
+  "data_name": "NVIDIA Tegra X1"
+}

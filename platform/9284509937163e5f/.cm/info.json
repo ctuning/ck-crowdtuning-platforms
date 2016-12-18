@@ -1,0 +1,21 @@
+{
+  "backup_data_uid": "9284509937163e5f", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "author": "cTuning foundation", 
+    "author_email": "admin@cTuning.org", 
+    "author_webpage": "http://cTuning.org", 
+    "copyright": "See CK COPYRIGHT.txt for copyright details", 
+    "engine": "CK", 
+    "iso_datetime": "2016-11-11T00:57:05.321281", 
+    "license": "See CK LICENSE.txt for licensing details", 
+    "version": [
+      "1", 
+      "8", 
+      "3", 
+      "2"
+    ]
+  }, 
+  "data_name": "ASUS T00F"
+}

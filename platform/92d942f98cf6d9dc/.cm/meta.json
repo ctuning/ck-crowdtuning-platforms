@@ -1,0 +1,7 @@
+{
+  "features": {
+    "model": "Pi", 
+    "name": "Raspberry Pi", 
+    "vendor": "Raspberry"
+  }
+}

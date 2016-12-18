@@ -1,0 +1,68 @@
+{
+  "features": {
+    "all_freqs": {}, 
+    "cpu_abi": "", 
+    "cpu_features": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch epb intel_pt tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm rdseed adx smap xsaveopt cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts", 
+    "max_freq": {
+      "0": 2600, 
+      "1": 2600, 
+      "10": 2600, 
+      "11": 2600, 
+      "12": 2600, 
+      "13": 2600, 
+      "14": 2600, 
+      "15": 2600, 
+      "2": 2600, 
+      "3": 2600, 
+      "4": 2600, 
+      "5": 2600, 
+      "6": 2600, 
+      "7": 2600, 
+      "8": 2600, 
+      "9": 2600
+    }, 
+    "name": "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+    "num_proc": "16", 
+    "sub_name": "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+    "workload_automation": {
+      "device_config": {
+        "core_clusters": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0
+        ], 
+        "core_names": [
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz", 
+          "Intel(R) Xeon(R) CPU D-1540 @ 2.00GHz"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "features": {
+    "all_freqs": {
+      "0": [
+        600000, 
+        1200000
+      ], 
+      "1": [
+        600000, 
+        1200000
+      ], 
+      "2": [
+        600000, 
+        1200000
+      ], 
+      "3": [
+        600000, 
+        1200000
+      ]
+    }, 
+    "cpu_abi": "", 
+    "cpu_features": "half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32", 
+    "max_freq": {
+      "0": 1200, 
+      "1": 1200, 
+      "2": 1200, 
+      "3": 1200
+    }, 
+    "name": "BCM2709", 
+    "num_proc": "4", 
+    "sub_name": "ARMv7 Processor rev 4 (v7l)", 
+    "workload_automation": {
+      "device_config": {
+        "core_clusters": [
+          0, 
+          0, 
+          0, 
+          1
+        ], 
+        "core_names": [
+          "ARMv7 Processor rev 4 (v7l)", 
+          "ARMv7 Processor rev 4 (v7l)", 
+          "ARMv7 Processor rev 4 (v7l)", 
+          "BCM2709"
+        ]
+      }
+    }
+  }
+}

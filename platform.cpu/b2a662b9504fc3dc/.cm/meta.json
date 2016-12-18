@@ -1,0 +1,10 @@
+{
+  "features": {
+    "max_freq": {
+      "0": 2601
+    }, 
+    "name": "Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz", 
+    "num_proc": 8, 
+    "sub_name": "Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz"
+  }
+}

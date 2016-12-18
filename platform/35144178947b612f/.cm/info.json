@@ -1,0 +1,21 @@
+{
+  "backup_data_uid": "35144178947b612f", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "author": "cTuning foundation", 
+    "author_email": "admin@cTuning.org", 
+    "author_webpage": "http://cTuning.org", 
+    "copyright": "See CK COPYRIGHT.txt for copyright details", 
+    "engine": "CK", 
+    "iso_datetime": "2016-12-07T06:26:19.470338", 
+    "license": "See CK LICENSE.txt for licensing details", 
+    "version": [
+      "1", 
+      "8", 
+      "4", 
+      "2"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-S906L"
+}

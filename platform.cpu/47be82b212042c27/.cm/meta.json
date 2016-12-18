@@ -1,0 +1,28 @@
+{
+  "features": {
+    "all_freqs": {
+      "0": [
+        700000, 
+        700000
+      ]
+    }, 
+    "cpu_abi": "", 
+    "cpu_features": "half thumb fastmult vfp edsp java tls", 
+    "max_freq": {
+      "0": 700
+    }, 
+    "name": "BCM2708", 
+    "num_proc": "1", 
+    "sub_name": "ARMv6-compatible processor rev 7 (v6l)", 
+    "workload_automation": {
+      "device_config": {
+        "core_clusters": [
+          0
+        ], 
+        "core_names": [
+          "BCM2708"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "9e0498a93592173b", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-01-10T09:20:31.503821", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "Intel Corporation Sky Lake Integrated Graphics (rev 06)"
+}

@@ -1,0 +1,12 @@
+{
+  "features": {
+    "abi": "armv7l", 
+    "bits": "32", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-32", 
+    "name": "Raspbian GNU/Linux 8 (jessie)", 
+    "name_long": "Linux-4.4.32-v7 -armv7l-with-debian-8.0", 
+    "name_short": "Linux 4.4.32", 
+    "serial_number": ""
+  }
+}

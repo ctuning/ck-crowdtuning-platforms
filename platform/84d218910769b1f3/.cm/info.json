@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "84d218910769b1f3", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-01-11T01:52:57.586616", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "LYF LS-5016"
+}

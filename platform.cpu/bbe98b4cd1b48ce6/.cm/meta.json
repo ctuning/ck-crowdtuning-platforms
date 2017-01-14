@@ -1,0 +1,15 @@
+{
+  "features": {
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd evtstrm crc32", 
+    "max_freq": {
+      "0": 1209.6, 
+      "1": 1209.6, 
+      "2": 1209.6, 
+      "3": 1209.6
+    }, 
+    "name": "Qualcomm Technologies, Inc APQ8016", 
+    "num_proc": "4", 
+    "sub_name": "AArch64 Processor rev 0 (aarch64)"
+  }
+}

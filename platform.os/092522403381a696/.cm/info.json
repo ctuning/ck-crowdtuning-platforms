@@ -1,0 +1,21 @@
+{
+  "backup_data_uid": "092522403381a696", 
+  "backup_module_uid": "41e31cc4496b8a8e", 
+  "backup_module_uoa": "platform.os", 
+  "control": {
+    "author": "cTuning foundation", 
+    "author_email": "admin@cTuning.org", 
+    "author_webpage": "http://cTuning.org", 
+    "copyright": "See CK COPYRIGHT.txt for copyright details", 
+    "engine": "CK", 
+    "iso_datetime": "2016-12-20T09:11:40.684010", 
+    "license": "See CK LICENSE.txt for licensing details", 
+    "version": [
+      "1", 
+      "8", 
+      "5", 
+      "3"
+    ]
+  }, 
+  "data_name": "Raspbian GNU/Linux 8 (jessie)"
+}

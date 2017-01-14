@@ -1,0 +1,14 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt", 
+    "max_freq": {
+      "0": 2320.5, 
+      "1": 2320.5, 
+      "2": 2320.5
+    }, 
+    "name": "ardbeg", 
+    "num_proc": "4", 
+    "sub_name": "ARMv7 Processor rev 3 (v7l)"
+  }
+}

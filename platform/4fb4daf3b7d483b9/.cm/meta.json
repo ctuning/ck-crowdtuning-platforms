@@ -1,0 +1,7 @@
+{
+  "features": {
+    "model": "SyNAPSE", 
+    "name": "IBM SyNAPSE", 
+    "vendor": "IBM"
+  }
+}

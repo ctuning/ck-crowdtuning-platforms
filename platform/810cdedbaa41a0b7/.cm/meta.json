@@ -2,6 +2,13 @@
   "features": {
     "model": "SM-G930F",
     "name": "SAMSUNG SM-G930F",
-    "vendor": "SAMSUNG"
+    "vendor": "SAMSUNG",
+    "cost":[
+      {"price":700,
+       "currency":"EUR",
+       "date":"20160101",
+       "desc":"Samsung Galaxy S7 Black 32GO"
+      }
+    ]
   }
 }

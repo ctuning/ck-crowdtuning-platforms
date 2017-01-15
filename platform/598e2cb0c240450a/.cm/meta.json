@@ -2,6 +2,13 @@
   "features": {
     "model": "B1-780", 
     "name": "ACER B1-780", 
-    "vendor": "ACER"
+    "vendor": "ACER",
+    "cost":[
+      {"price":100,
+       "currency":"EUR",
+       "date":"20171203",
+       "desc":"ACER Iconia One 7 Black 16GO"
+      }
+    ]
   }
 }

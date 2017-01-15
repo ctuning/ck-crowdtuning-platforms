@@ -1,3 +1,7 @@
+* 2017.01.15 - added costs of various hardware as features 
+               (see our CPC'15 paper on performance and cost-aware computer engineering
+                https://arxiv.org/abs/1506.06256)
+
 * 2017.01.14 - added meta of new platforms
 
 * 2016.12.18 - added new platforms (CPU, GPGPU, GPU, OS, etc)

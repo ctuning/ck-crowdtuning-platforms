@@ -9,6 +9,7 @@
        "date":"20160101",
        "desc":"Samsung Galaxy S7 Black 32GO"
       }
-    ]
+    ],
+    "power_consumption":{"min":0.7, "max":7.2}
   }
 }

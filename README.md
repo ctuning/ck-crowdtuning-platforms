@@ -77,3 +77,5 @@ aggregated in the [live CK repository](http://cKnowledge.org/repo)
 Public discussions
 ==================
 * [CK mailing list](http://groups.google.com/group/collective-knowledge)
+
+![logo](https://github.com/ctuning/ck-guide-images/blob/master/logo-validated-by-the-community-simple.png)

@@ -1,9 +1,6 @@
-Status
-======
-This is a relatively stable repository.
+[![logo](https://github.com/ctuning/ck-guide-images/blob/master/logo-powered-by-ck.png)](http://cKnowledge.org)
+[![logo](https://github.com/ctuning/ck-guide-images/blob/master/logo-validated-by-the-community-simple.png)](http://cTuning.org)
 
-Description
-===========
 This repository contains descriptions of platforms participating
 in CK-based crowdsourcing of experiments such as multi-objective
 autotuning. Entries are first automatically created at cknowledge.org/repo ,
@@ -77,5 +74,3 @@ aggregated in the [live CK repository](http://cKnowledge.org/repo)
 Public discussions
 ==================
 * [CK mailing list](http://groups.google.com/group/collective-knowledge)
-
-![logo](https://github.com/ctuning/ck-guide-images/blob/master/logo-validated-by-the-community-simple.png)

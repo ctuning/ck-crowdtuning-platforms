@@ -1,28 +1,27 @@
 [![logo](https://github.com/ctuning/ck-guide-images/blob/master/logo-powered-by-ck.png)](http://cKnowledge.org)
 [![logo](https://github.com/ctuning/ck-guide-images/blob/master/logo-validated-by-the-community-simple.png)](http://cTuning.org)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)(http://creativecommons.org/licenses/by/4.0/)
 
-This repository contains descriptions of platforms participating
-in CK-based crowdsourcing of experiments such as multi-objective
-autotuning. Entries are first automatically created at cknowledge.org/repo ,
-then moved here, updated manually by the community to add important
-features (required to apply CK-based machine learning techniques
-and predict optimizations or gradually model behavior of all programs).
+This repository contains JSON meta information in the [open CK format](http://github.com/ctuning/ck)
+about platforms participating in CK-powered experiment crowdsourcing across diverse
+hardware provided by volunteers. For example, it is used to crowdsource performance
+analysis and optimization of realistic workloads across mobile devices and IoT. 
 
-Concepts described in the following publications
-================================================
-* http://arxiv.org/abs/1506.06256
-* http://bit.ly/ck-date16
-* http://arxiv.org/abs/1407.4075
-* http://hal.inria.fr/hal-01054763
-* https://hal.inria.fr/inria-00436029
+Entries are first automatically created at cknowledge.org/repo ,
+then synced with this repository. More importantly, they can be 
+manually updated by the community to add important
+properties (such as platform topology, info about caches, etc)
+or scripts to set frequency, etc useful for collaborative and
+reproducible research scenarios!
 
-Authors
+The community also provides notes about setting up various hardware
+using this [wiki](https://github.com/ctuning/ck-crowdtuning-platforms/wiki).
+
+Contributors
 =======
-* [Grigori Fursin](http://fursin.net/research.html), cTuning foundation (France) / dividiti (UK)
-
-License
-=======
-* BSD, 3-clause
+* [Grigori Fursin](http://fursin.net/research.html), cTuning foundation/dividiti
+* [Anton Lokhmotov](https://www.hipeac.net/~anton), dividiti
+* [Flavio Vella](http://dividiti.com), dividiti
 
 Prerequisites
 =============
@@ -31,7 +30,21 @@ Prerequisites
 Installation
 ============
 
-> ck pull repo:ck-crowdtuning-platforms
+```
+ > ck pull repo:ck-crowdtuning-platforms
+
+ > ck list platform --print_name | sort
+ > ck list platform.cpu --print_name | sort
+ > ck list platform.gpgpu --print_name | sort
+ > ck list platform.gpu --print_name | sort
+ > ck list platform.nn --print_name | sort
+ > ck list platform.os --print_name  | sort
+
+ > ck load platform.cpu:40bc4c800b3f8e3d --min
+ > ck load platform.cpu:40bc4c800b3f8e3d
+ > ck info platform.cpu:40bc4c800b3f8e3d
+
+```
 
 Publications
 ============

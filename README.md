@@ -22,6 +22,7 @@ Contributors
 * [Grigori Fursin](http://fursin.net/research.html), cTuning foundation/dividiti
 * [Anton Lokhmotov](https://www.hipeac.net/~anton), dividiti
 * [Flavio Vella](http://dividiti.com), dividiti
+* The community participated in the [CK-powered experiment crowdsourcing](http://cKnowledge.org/repo)
 
 Prerequisites
 =============

@@ -1,0 +1,12 @@
+{
+  "features": {
+    "abi": "x86_64", 
+    "bits": "32", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "android19-arm", 
+    "name": "compatibility - Linux version 3.0.31", 
+    "name_long": "Linux version 3.0.31-1121627 (dpi@DELL235) (gcc version 4.4.1 (Sourcery G   Lite 2010q1-202) ) #1 SMP PREEMPT Tue Apr 9 16:01:40 KST 2013", 
+    "name_short": "Linux version 3.0.31", 
+    "serial_number": ""
+  }
+}

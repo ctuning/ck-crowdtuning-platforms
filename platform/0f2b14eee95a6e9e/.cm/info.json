@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "0f2b14eee95a6e9e", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-01-14T23:02:50.345026", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "HUAWEI H60-L02"
+}

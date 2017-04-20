@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "c862c422f915329c", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-03-19T22:40:00.789495", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-G930P"
+}

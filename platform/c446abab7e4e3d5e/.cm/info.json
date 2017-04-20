@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "c446abab7e4e3d5e", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-03-10T09:31:47.891358", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "SONY D2303"
+}

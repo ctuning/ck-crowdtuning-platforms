@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "633b7a37789f5825", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-01-19T07:49:35.213092", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "SONY E6653"
+}

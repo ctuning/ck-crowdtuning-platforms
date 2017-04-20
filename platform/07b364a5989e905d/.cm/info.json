@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "07b364a5989e905d", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-04-08T19:14:49.206843", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-G920I"
+}

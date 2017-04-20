@@ -1,0 +1,12 @@
+{
+  "features": {
+    "abi": "x86_64", 
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "Ubuntu 16.04.2 LTS", 
+    "name_long": "Linux-4.4.0-72-generic-x86_64-with-debian-stretch-sid", 
+    "name_short": "Linux 4.4.0", 
+    "serial_number": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "c4741a8146d569f4", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-02-18T03:59:12.078928", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SPH-L900"
+}

@@ -1,3 +1,7 @@
+* 2017.04.20 - new set of platforms which also participated in DNN crowd-benchmarking
+               on mobile devices with constraint resources, desktops and HPC servers
+               (Caffe and TensorFlow engines)
+
 * 2017.01.15 - added costs of various hardware as features 
                (see our CPC'15 paper on performance and cost-aware computer engineering
                 https://arxiv.org/abs/1506.06256)

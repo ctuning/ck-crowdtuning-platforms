@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "754453e55534458d", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-03-09T11:19:47.790094", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "LGE LG-H830"
+}

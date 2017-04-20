@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "5d6b9ed4468aaefd", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-04-16T21:25:29.477694", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "Acer V1.06 (Aspire ES1-520)"
+}

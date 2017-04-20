@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "6e55bdf3344c2a69", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-02-19T11:10:54.489661", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "NVIDIA Corporation GM204 [GeForce GTX 970] (rev a1)"
+}

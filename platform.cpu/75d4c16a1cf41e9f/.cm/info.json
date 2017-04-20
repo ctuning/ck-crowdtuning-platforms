@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "75d4c16a1cf41e9f", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-03-27T21:24:58.776938", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "Qualcomm Technologies, Inc APQ8076"
+}

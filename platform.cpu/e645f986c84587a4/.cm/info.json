@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "e645f986c84587a4", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-02-09T11:57:13.921819", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "Qualcomm Technologies, Inc MSM8976"
+}

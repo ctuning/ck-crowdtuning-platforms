@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "1b2d0c24bc387989", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-02-15T22:42:10.985531", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "Hisilicon Kirin 925"
+}

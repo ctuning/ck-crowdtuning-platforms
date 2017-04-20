@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "547fe69620a4770b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-02-15T22:42:11.196673", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "HUAWEI JAZZ"
+}

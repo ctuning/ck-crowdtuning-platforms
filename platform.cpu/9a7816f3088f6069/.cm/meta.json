@@ -1,0 +1,10 @@
+{
+  "features": {
+    "max_freq": {
+      "0": 1400
+    }, 
+    "name": "AMD E1-2500 APU with Radeon(TM) HD Graphics", 
+    "num_proc": 2, 
+    "sub_name": "AMD E1-2500 APU with Radeon(TM) HD Graphics"
+  }
+}

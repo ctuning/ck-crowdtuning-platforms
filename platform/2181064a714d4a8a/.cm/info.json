@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "2181064a714d4a8a", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-04-09T01:50:52.740504", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "LGE LG-K430"
+}

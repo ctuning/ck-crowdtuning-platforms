@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "854cb6ad95db64ea", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-02-09T20:47:07.288452", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG GT-S7562"
+}

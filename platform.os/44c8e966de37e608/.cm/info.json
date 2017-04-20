@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "44c8e966de37e608", 
+  "backup_module_uid": "41e31cc4496b8a8e", 
+  "backup_module_uoa": "platform.os", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-01-23T10:20:32.729505", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "compatibility - Linux version 3.0.31"
+}

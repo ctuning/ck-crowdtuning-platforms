@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "6e8b1062a9c16628", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-03-08T04:56:30.625873", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "NVIDIA GeForce GTX 1050 Ti"
+}

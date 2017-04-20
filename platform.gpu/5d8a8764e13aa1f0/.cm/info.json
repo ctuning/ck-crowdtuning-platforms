@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "5d8a8764e13aa1f0", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-02-02T16:52:24.472127", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "NVIDIA Corporation GT218 [NVS 300] (rev a2)"
+}

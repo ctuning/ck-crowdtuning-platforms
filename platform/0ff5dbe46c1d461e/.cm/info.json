@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "0ff5dbe46c1d461e", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-03-24T06:15:23.568045", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-N920W8"
+}

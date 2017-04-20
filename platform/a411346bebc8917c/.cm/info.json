@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "a411346bebc8917c", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-02-25T10:08:54.110034", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "OPPO 1201"
+}

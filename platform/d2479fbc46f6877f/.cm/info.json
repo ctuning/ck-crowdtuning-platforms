@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "d2479fbc46f6877f", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-02-26T18:27:40.689058", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "LGE LG-K220"
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "264256859065a3bf", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-03-10T20:06:30.439433", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG GT-I9195"
+}

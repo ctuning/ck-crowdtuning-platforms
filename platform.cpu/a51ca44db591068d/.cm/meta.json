@@ -1,0 +1,19 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt", 
+    "max_freq": {
+      "0": 1305.6, 
+      "1": 1305.6, 
+      "2": 1305.6, 
+      "3": 1305.6, 
+      "4": 1804.8, 
+      "5": 1804.8, 
+      "6": 1804.8, 
+      "7": 1804.8
+    }, 
+    "name": "Kirin925", 
+    "num_proc": "8", 
+    "sub_name": "ARMv7 Processor rev 3 (v7l)"
+  }
+}

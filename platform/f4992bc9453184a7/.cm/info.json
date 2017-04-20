@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "f4992bc9453184a7", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-02-02T16:52:24.820466", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "Dell Inc. (Precision WorkStation T5500)"
+}

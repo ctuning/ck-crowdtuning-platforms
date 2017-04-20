@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "786b1aae08d42a3e", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-01-27T20:31:59.067056", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-G900F"
+}

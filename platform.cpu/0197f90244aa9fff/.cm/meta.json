@@ -1,0 +1,15 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp thumbee neon vfpv3 tls vfpv4 idiva idivt", 
+    "max_freq": {
+      "0": 1183, 
+      "1": 1183, 
+      "2": 1183, 
+      "3": 1183
+    }, 
+    "name": "PXA1L88", 
+    "num_proc": "4", 
+    "sub_name": "ARMv7 Processor rev 3 (v7l)"
+  }
+}

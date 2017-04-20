@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "19851e34d439801d", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-02-15T00:26:47.857850", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "FIH INFOCUS M550 3D"
+}

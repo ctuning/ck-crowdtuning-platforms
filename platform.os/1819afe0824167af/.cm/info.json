@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "1819afe0824167af", 
+  "backup_module_uid": "41e31cc4496b8a8e", 
+  "backup_module_uoa": "platform.os", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-04-16T11:58:36.806566", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "Android 7.1.2"
+}

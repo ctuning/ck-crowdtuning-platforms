@@ -1,0 +1,14 @@
+{
+  "features": {
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+    "max_freq": {
+      "0": 1391, 
+      "1": 1391, 
+      "2": 1391
+    }, 
+    "name": "MT6797M", 
+    "num_proc": "10", 
+    "sub_name": "AArch64 Processor rev 4 (aarch64)"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "4db489c9f654855a", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-02-17T09:28:43.831276", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG GT-I8262"
+}

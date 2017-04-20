@@ -1,0 +1,19 @@
+{
+  "features": {
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+    "max_freq": {
+      "0": 1805, 
+      "1": 1805, 
+      "2": 1805, 
+      "3": 1805, 
+      "4": 2516, 
+      "5": 2516, 
+      "6": 2516, 
+      "7": 2516
+    }, 
+    "name": "AArch64 Processor rev 4 (aarch64)", 
+    "num_proc": "8", 
+    "sub_name": "AArch64 Processor rev 4 (aarch64)"
+  }
+}

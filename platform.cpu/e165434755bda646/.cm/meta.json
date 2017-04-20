@@ -1,0 +1,15 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 evtstrm", 
+    "max_freq": {
+      "0": 1267.2, 
+      "1": 1267.2, 
+      "2": 1267.2, 
+      "3": 1267.2
+    }, 
+    "name": "Qualcomm Technologies, Inc APQ8009", 
+    "num_proc": "4", 
+    "sub_name": "ARMv7 Processor rev 5 (v7l)"
+  }
+}

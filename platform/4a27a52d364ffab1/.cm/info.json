@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "4a27a52d364ffab1", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-03-29T22:19:02.192644", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "LENOVO A536"
+}

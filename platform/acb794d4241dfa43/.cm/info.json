@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "acb794d4241dfa43", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-02-04T15:00:43.381726", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-J110F"
+}

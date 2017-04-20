@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "a4e9b814d3f15c6c", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-03-18T18:14:24.838834", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "HTC MSM8952 FOR ARM64"
+}

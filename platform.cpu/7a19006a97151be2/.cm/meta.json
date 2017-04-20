@@ -1,0 +1,15 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32  half thumb fastmult edsp tls vfp vfpv3 vfpv4 neon idiva idivt", 
+    "max_freq": {
+      "0": 1248, 
+      "1": 1248, 
+      "2": 1248, 
+      "3": 1248
+    }, 
+    "name": "PXA1908", 
+    "num_proc": "4", 
+    "sub_name": "ARMv8 Processor rev 2 (v8l)"
+  }
+}

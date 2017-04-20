@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "04ba3d44555a81b1", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-03-19T01:00:06.412384", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "LGE LGLS450"
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "e8006954b787c9cb", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-01-26T02:38:13.671078", 
+    "version": [
+      "1", 
+      "8", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "LANIX ILIUM S106"
+}

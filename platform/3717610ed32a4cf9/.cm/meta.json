@@ -2,6 +2,14 @@
   "features": {
     "model": "Virtual Machine", 
     "name": "Microsoft Corporation 7.0 (Virtual Machine)", 
-    "vendor": "Microsoft Corporation"
+    "vendor": "Microsoft Corporation",
+    "cost":[
+      {
+       "price":120,
+       "currency":"USD",
+       "date":"20160101",
+       "desc":"cTuning Azure cost per month (depends on usage)"
+      }
+    ]
   }
 }

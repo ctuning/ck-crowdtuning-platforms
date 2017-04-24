@@ -2,6 +2,15 @@
   "features": {
     "model": "20ALCTO1WW", 
     "name": "LENOVO ThinkPad X240 (20ALCTO1WW)", 
-    "vendor": "LENOVO"
+    "vendor": "LENOVO",
+    "cost":[
+      {"price":1600,
+       "currency":"USD",
+       "date":"20151201",
+       "desc":"Lenovo ThinkPad X240 (France)"
+      }
+    ],
+    "power_consumption":{"min":4.0, "max":35.0},
+    "acoustic_noise":{"min":0, "max":40}
   }
 }

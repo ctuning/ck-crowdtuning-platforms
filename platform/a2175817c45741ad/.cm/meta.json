@@ -3,5 +3,15 @@
     "model": "Raspberry Pi 3 Model B", 
     "name": "Raspberry Pi (Raspberry Pi 3 Model B)", 
     "vendor": "Sony"
+    "cost":[
+      {
+       "price":50,
+       "currency":"EUR",
+       "date":"20151101",
+       "desc":"(UK)"
+      }
+    ],
+    "power_consumption":{"min":1.2, "max":4.5},
+    "acoustic_noise":{"min":0, "max":0}
   }
 }

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "1bdef59a4ea3a1ea", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-04-22T11:36:46.156205", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "InnoTek Systemberatung GmbH VirtualBox Graphics Adapter"
+}

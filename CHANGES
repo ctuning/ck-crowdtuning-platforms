@@ -1,3 +1,5 @@
+* 2017.05.07 - new set of platforms for collaborative optimization
+
 * 2017.04.20 - new set of platforms which also participated in DNN crowd-benchmarking
                on mobile devices with constraint resources, desktops and HPC servers
                (Caffe and TensorFlow engines)

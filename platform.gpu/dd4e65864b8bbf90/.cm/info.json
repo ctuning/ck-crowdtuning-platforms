@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "dd4e65864b8bbf90", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-05-05T02:41:03.043364", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "Imagination Technologies PowerVR SGX 540"
+}

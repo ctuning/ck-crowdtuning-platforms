@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "3f84bf1dad46601b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-04-29T02:21:32.552157", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "XIAOMI MI 5S"
+}

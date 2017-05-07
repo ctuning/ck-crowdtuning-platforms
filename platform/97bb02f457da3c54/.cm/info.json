@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "97bb02f457da3c54", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-05-01T18:05:35.734284", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "ZTE Z981"
+}

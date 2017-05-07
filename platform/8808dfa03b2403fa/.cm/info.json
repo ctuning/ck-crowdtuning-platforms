@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "8808dfa03b2403fa", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-04-26T04:26:57.372835", 
+    "version": [
+      "1", 
+      "8", 
+      "7", 
+      "1"
+    ]
+  }, 
+  "data_name": "SONY E5823"
+}

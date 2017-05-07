@@ -1,0 +1,18 @@
+{
+  "features": {
+    "name": "Intel(R) HD Graphics", 
+    "type": "opencl", 
+    "vendor": "Intel(R) Corporation"
+  }, 
+  "features_misc": {
+    "- max work-item size #0": "256", 
+    "- max work-item size #1": "256", 
+    "- max work-item size #2": "256", 
+    "address bits": "64", 
+    "hardware (device) version": "OpenCL 1.2", 
+    "opencl c version": "OpenCL C 1.2", 
+    "parallel compute units": "20", 
+    "software (driver) version": "r4.1.61547", 
+    "work-item dimensions": "3"
+  }
+}

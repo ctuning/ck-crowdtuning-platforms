@@ -1,0 +1,13 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt", 
+    "max_freq": {
+      "0": 2150.4, 
+      "1": 2150.4
+    }, 
+    "name": "FJDEV", 
+    "num_proc": "4", 
+    "sub_name": "ARMv7 Processor rev 0 (v7l)"
+  }
+}

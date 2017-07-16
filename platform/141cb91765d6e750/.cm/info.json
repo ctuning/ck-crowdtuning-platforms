@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "141cb91765d6e750", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-06-30T18:04:14.974391", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-N920T"
+}

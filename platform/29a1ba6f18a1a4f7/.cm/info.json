@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "29a1ba6f18a1a4f7", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-05-25T18:46:05.077865", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "LENOVO P2A42"
+}

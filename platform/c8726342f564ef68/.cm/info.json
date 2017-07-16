@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "c8726342f564ef68", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-05-17T06:00:13.258002", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "MOTOROLA XT1706"
+}

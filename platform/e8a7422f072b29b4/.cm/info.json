@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "e8a7422f072b29b4", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-06-27T11:26:25.962401", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-G928F"
+}

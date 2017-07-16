@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "c91766baae09414b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-05-27T14:16:49.953773", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "SONY D6503"
+}

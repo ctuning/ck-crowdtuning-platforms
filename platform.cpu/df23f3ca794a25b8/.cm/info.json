@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "df23f3ca794a25b8", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-07-08T11:34:11.228645", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "Qualcomm MSM 8228 (Flattened Device Tree)"
+}

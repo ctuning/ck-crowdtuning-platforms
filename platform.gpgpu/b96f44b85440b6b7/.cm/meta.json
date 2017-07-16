@@ -1,0 +1,18 @@
+{
+  "features": {
+    "name": "Ellesmere", 
+    "type": "opencl", 
+    "vendor": "Advanced Micro Devices, Inc."
+  }, 
+  "features_misc": {
+    "- max work-item size #0": "256", 
+    "- max work-item size #1": "256", 
+    "- max work-item size #2": "256", 
+    "address bits": "64", 
+    "hardware (device) version": "OpenCL 2.0 AMD-APP (2264.11)", 
+    "opencl c version": "OpenCL C 2.0", 
+    "parallel compute units": "36", 
+    "software (driver) version": "2264.11", 
+    "work-item dimensions": "3"
+  }
+}

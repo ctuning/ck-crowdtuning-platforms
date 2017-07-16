@@ -1,0 +1,15 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp thumbee neon vfpv3 tls vfpv4 idiva idivt", 
+    "max_freq": {
+      "0": 1728, 
+      "1": 1728, 
+      "2": 1728, 
+      "3": 1728
+    }, 
+    "name": "m7", 
+    "num_proc": "4", 
+    "sub_name": "ARMv7 Processor rev 0 (v7l)"
+  }
+}

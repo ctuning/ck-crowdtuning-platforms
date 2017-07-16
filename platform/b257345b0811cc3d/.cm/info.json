@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "b257345b0811cc3d", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-07-11T21:26:50.065688", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "DIGMA VOX S503 4G VS5008ML"
+}

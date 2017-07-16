@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "24a7077935646d99", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-07-13T14:32:02.813804", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "SONY G3125"
+}

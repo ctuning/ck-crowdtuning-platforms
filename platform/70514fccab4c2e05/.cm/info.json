@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "70514fccab4c2e05", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-06-03T23:02:11.067167", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-J120H"
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "f288a469a3dc401c", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-05-10T06:15:05.074076", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-G360H"
+}

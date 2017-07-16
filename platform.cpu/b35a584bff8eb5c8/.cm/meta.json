@@ -1,0 +1,19 @@
+{
+  "features": {
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+    "max_freq": {
+      "0": 1690, 
+      "1": 1690, 
+      "2": 1690, 
+      "3": 1690, 
+      "4": 2314, 
+      "5": 2314, 
+      "6": 2314, 
+      "7": 2314
+    }, 
+    "name": "0x53-8-0x4-0x001-0", 
+    "num_proc": "8", 
+    "sub_name": ""
+  }
+}

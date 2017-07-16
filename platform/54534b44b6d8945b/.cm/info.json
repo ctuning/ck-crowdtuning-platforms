@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "54534b44b6d8945b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-07-05T05:37:50.402335", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "OPPO A1601"
+}

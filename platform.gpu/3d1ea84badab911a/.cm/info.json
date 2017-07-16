@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "3d1ea84badab911a", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-07-15T15:12:12.167391", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "Radeon (TM) RX 480 Graphics"
+}

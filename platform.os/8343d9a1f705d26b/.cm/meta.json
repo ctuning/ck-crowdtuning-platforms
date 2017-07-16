@@ -1,0 +1,12 @@
+{
+  "features": {
+    "abi": "x86_64", 
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "Linux 4.6.0", 
+    "name_long": "Linux-4.6.0-0.bpo.1-amd64-x86_64-with-debian-8.8", 
+    "name_short": "Linux 4.6.0", 
+    "serial_number": ""
+  }
+}

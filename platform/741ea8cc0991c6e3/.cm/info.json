@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "741ea8cc0991c6e3", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-05-24T01:33:25.325676", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "LGE LG-H870"
+}

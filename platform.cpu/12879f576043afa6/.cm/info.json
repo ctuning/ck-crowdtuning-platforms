@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "12879f576043afa6", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-05-18T00:01:35.020370", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "Qualcomm Technologies, Inc MSM8917"
+}

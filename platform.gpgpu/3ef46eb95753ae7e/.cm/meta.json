@@ -1,0 +1,18 @@
+{
+  "features": {
+    "name": "Mali-T760", 
+    "type": "opencl", 
+    "vendor": "ARM"
+  }, 
+  "features_misc": {
+    "- max work-item size #0": "256", 
+    "- max work-item size #1": "256", 
+    "- max work-item size #2": "256", 
+    "address bits": "64", 
+    "hardware (device) version": "OpenCL 1.1 v1.r7p0-03rel0.b596bd02e7d0169c10574b57180c8b57", 
+    "opencl c version": "OpenCL C 1.1 v1.r7p0-03rel0.b596bd02e7d0169c10574b57180c8b57", 
+    "parallel compute units": "8", 
+    "software (driver) version": "1.1", 
+    "work-item dimensions": "3"
+  }
+}

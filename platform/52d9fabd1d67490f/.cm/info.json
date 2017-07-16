@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "52d9fabd1d67490f", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-05-24T20:59:03.959997", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "LENOVO K53"
+}

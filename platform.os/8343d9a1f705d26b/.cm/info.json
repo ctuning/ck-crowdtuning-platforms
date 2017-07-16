@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "8343d9a1f705d26b", 
+  "backup_module_uid": "41e31cc4496b8a8e", 
+  "backup_module_uoa": "platform.os", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-06-18T17:35:10.736021", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "Linux 4.6.0"
+}

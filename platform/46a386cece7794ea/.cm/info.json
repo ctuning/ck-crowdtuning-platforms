@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "46a386cece7794ea", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-06-18T12:32:31.737255", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "SONY C6903"
+}

@@ -1,0 +1,15 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4", 
+    "max_freq": {
+      "0": 1512, 
+      "1": 1512, 
+      "2": 1512, 
+      "3": 1512
+    }, 
+    "name": "QCT APQ8064 DEB", 
+    "num_proc": "4", 
+    "sub_name": "ARMv7 Processor rev 0 (v7l)"
+  }
+}

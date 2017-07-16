@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "63de7d4a2fab5d3c", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-06-14T23:05:35.382469", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "NAVON D504"
+}

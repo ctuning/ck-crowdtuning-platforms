@@ -1,0 +1,18 @@
+{
+  "features": {
+    "name": "Intel(R) Core(TM) i7-4930K CPU @ 3.40GHz", 
+    "type": "opencl", 
+    "vendor": "GenuineIntel"
+  }, 
+  "features_misc": {
+    "- max work-item size #0": "1024", 
+    "- max work-item size #1": "1024", 
+    "- max work-item size #2": "1024", 
+    "address bits": "64", 
+    "hardware (device) version": "OpenCL 1.2 AMD-APP (2264.11)", 
+    "opencl c version": "OpenCL C 1.2", 
+    "parallel compute units": "12", 
+    "software (driver) version": "2264.11 (sse2,avx)", 
+    "work-item dimensions": "3"
+  }
+}

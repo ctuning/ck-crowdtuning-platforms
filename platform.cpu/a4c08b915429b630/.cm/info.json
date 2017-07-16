@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "a4c08b915429b630", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-07-15T15:11:43.802924", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "Intel(R) Core(TM) i7-4930K CPU @ 3.40GHz"
+}

@@ -1,0 +1,13 @@
+{
+  "features": {
+    "name": "Intel(R) HD Graphics Skylake ULT GT2", 
+    "type": "opencl", 
+    "vendor": "Intel"
+  }, 
+  "features_misc": {
+    "hardware (device) version": "OpenCL 1.2 beignet 1.2 (git-097365e)", 
+    "opencl c version": "OpenCL C 1.2 beignet 1.2 (git-097365e)", 
+    "parallel compute units": "24", 
+    "software (driver) version": "1.2"
+  }
+}

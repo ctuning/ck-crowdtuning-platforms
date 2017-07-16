@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "0963ce2f51c85739", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-06-16T03:58:41.108417", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "Intel(R) Xeon(R) CPU E5-1630 v3 @ 3.70GHz"
+}

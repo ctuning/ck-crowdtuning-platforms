@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "0a1466c80356e473", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-06-30T06:10:26.150016", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "TCL 4060S"
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "8846c704a5c89eab", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-05-26T19:17:34.282855", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG GT-I9301I"
+}

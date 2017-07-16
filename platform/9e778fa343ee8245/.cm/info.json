@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "9e778fa343ee8245", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-05-26T03:57:10.487417", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "HEWLETT-PACKARD HP PRO SLATE 8"
+}

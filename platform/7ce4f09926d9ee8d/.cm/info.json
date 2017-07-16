@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "7ce4f09926d9ee8d", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-07-04T21:29:52.548224", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-J727V"
+}

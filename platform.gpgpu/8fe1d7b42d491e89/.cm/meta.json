@@ -1,0 +1,18 @@
+{
+  "features": {
+    "name": "Quadro K420", 
+    "type": "opencl", 
+    "vendor": "NVIDIA Corporation"
+  }, 
+  "features_misc": {
+    "- max work-item size #0": "1024", 
+    "- max work-item size #1": "1024", 
+    "- max work-item size #2": "64", 
+    "address bits": "64", 
+    "hardware (device) version": "OpenCL 1.2 CUDA", 
+    "opencl c version": "OpenCL C 1.2", 
+    "parallel compute units": "1", 
+    "software (driver) version": "375.66", 
+    "work-item dimensions": "3"
+  }
+}

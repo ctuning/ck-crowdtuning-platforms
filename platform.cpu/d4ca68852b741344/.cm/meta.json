@@ -1,0 +1,15 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt", 
+    "max_freq": {
+      "0": 1500, 
+      "1": 1500, 
+      "2": 1500, 
+      "3": 1500
+    }, 
+    "name": "M76", 
+    "num_proc": "8", 
+    "sub_name": "ARMv7 Processor rev 4 (v7l)"
+  }
+}

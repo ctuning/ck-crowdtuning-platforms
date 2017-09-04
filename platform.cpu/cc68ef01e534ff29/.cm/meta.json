@@ -1,0 +1,17 @@
+{
+  "features": {
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd aes pmull sha1 sha2 crc32", 
+    "max_freq": {
+      "0": 2158, 
+      "1": 2158, 
+      "2": 2158, 
+      "3": 2158, 
+      "4": 2158, 
+      "5": 2158
+    }, 
+    "name": "MT6795T", 
+    "num_proc": "8", 
+    "sub_name": "AArch64 Processor rev 2 (aarch64)"
+  }
+}

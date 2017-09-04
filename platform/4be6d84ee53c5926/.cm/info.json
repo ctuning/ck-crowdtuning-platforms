@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "4be6d84ee53c5926", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-08-14T08:27:15.233298", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "LETV LE X507"
+}

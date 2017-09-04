@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "4552bd45a9bcdc3b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-08-10T10:03:55.644507", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-N920L"
+}

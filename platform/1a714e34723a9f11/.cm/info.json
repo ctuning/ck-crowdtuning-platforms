@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "1a714e34723a9f11", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-07-17T11:00:17.119408", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "FOXCONN INTERNATIONAL HOLDINGS LIMITED KURIO7S"
+}

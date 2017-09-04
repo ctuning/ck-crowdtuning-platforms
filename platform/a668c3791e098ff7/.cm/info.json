@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "a668c3791e098ff7", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-08-10T10:29:54.897956", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "WIKO U FEEL PRIME"
+}

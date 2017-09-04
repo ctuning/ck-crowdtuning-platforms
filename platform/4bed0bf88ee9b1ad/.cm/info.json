@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "4bed0bf88ee9b1ad", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-08-05T00:39:13.526531", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-J120ZN"
+}

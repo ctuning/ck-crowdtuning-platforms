@@ -1,0 +1,15 @@
+{
+  "features": {
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd aes pmull sha1 sha2 crc32", 
+    "max_freq": {
+      "0": 1495, 
+      "1": 1495, 
+      "2": 1495, 
+      "3": 1495
+    }, 
+    "name": "MT6753T", 
+    "num_proc": "8", 
+    "sub_name": "AArch64 Processor rev 4 (aarch64)"
+  }
+}

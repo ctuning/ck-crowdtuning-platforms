@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "84c5eb155c1d13fb", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-09-04T17:04:39.023278", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "MEIZU MX4"
+}

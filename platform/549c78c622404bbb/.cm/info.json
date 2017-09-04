@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "549c78c622404bbb", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-08-24T06:16:36.200603", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "LGE LG-F800L"
+}

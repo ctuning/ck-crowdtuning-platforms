@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "7aa08be7c7f5faf3", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-08-23T19:51:25.436831", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-A320F"
+}

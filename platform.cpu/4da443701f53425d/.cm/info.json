@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "4da443701f53425d", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-08-03T18:48:04.178447", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "MT6755V/BM"
+}

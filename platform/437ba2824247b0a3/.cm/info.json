@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "437ba2824247b0a3", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-08-05T22:07:38.570729", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "CUBOT CHEETAH 2"
+}

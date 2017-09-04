@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "28f4aa2be6981f12", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-08-22T19:55:34.937337", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "SONY LT30P"
+}

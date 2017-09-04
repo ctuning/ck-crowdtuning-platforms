@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "488f9f7f8ff1fd20", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-08-01T18:03:22.710532", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz"
+}

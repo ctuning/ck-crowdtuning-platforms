@@ -1,0 +1,19 @@
+{
+  "features": {
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+    "max_freq": {
+      "0": 1497.6, 
+      "1": 1497.6, 
+      "2": 1497.6, 
+      "3": 1497.6, 
+      "4": 1209.6, 
+      "5": 1209.6, 
+      "6": 1209.6, 
+      "7": 1209.6
+    }, 
+    "name": "Qualcomm MSM 8939 HUAWEI KIW-L21", 
+    "num_proc": "8", 
+    "sub_name": "AArch64 Processor rev 4 (aarch64)"
+  }
+}

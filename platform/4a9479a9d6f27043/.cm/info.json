@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "4a9479a9d6f27043", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-08-24T22:36:25.769579", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "XIAOMI HM 1S"
+}

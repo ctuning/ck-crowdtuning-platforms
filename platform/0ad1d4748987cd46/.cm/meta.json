@@ -2,6 +2,15 @@
   "features": {
     "model": "MOTOG3", 
     "name": "MOTOROLA MOTOG3", 
-    "vendor": "MOTOROLA"
+    "vendor": "MOTOROLA",
+    "cost":[
+      {
+       "price":179,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"Motorola MOTO G5",
+       "url":"http://www.darty.com/nav/achat/gps_communication/telephone_mobile/telephone_portable/lenovo_moto_g5_noir.html?dartycid=sea_shopping-online_PLA-Telephonie-et-Mobilite/Smartphone_adgroup_Smartphone/Motorola&s_kwcid=AL!289!3!{creative}!{matchtype}!{placement}!{network}!!{keyword}&ef_id=WbPVgQAAAWoNYI2q:20170909174430:s"
+      }
+    ]
   }
 }

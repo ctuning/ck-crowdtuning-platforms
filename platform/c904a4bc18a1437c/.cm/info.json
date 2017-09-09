@@ -1,0 +1,15 @@
+{
+  "backup_data_uid": "c904a4bc18a1437c",
+  "backup_module_uid": "707ccdfe444cafac",
+  "backup_module_uoa": "platform",
+  "control": {
+    "engine": "CK",
+    "iso_datetime": "2017-09-09T17:14:20.377081",
+    "version": [
+      "1",
+      "9",
+      "1",
+      "1"
+    ]
+  }
+}

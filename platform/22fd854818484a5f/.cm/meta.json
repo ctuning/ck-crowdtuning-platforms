@@ -2,6 +2,15 @@
   "features": {
     "model": "NEXUS 6P", 
     "name": "HUAWEI NEXUS 6P", 
-    "vendor": "HUAWEI"
+    "vendor": "HUAWEI",
+    "cost":[
+      {
+       "price":499,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"Huawei Nexus 6P 32 Go Graphite",
+       "url":"https://www.fnac.com/Smartphone-Huawei-Nexus-6P-32-Go-Graphite/a9214728/w-4?oref=417556fa-0835-0345-fb5a-96b54d9cb074&ectrans=1&affmn=87&Origin=affilinet320554&affmt=2"
+      }
+    ]
   }
 }

@@ -2,6 +2,15 @@
   "features": {
     "model": "MI5", 
     "name": "XIAOMI MI5", 
-    "vendor": "XIAOMI"
+    "vendor": "XIAOMI",
+    "cost":[
+      {
+       "price":499,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"XIAOMI Mi5",
+       "url":"https://www.fnac.com/mp27925312/Smartphone-XIAOMI-Mi5-5-15-32-Gb-Dual-Sim-4G-Blanc/w-4"
+      }
+    ]
   }
 }

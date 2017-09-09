@@ -1,0 +1,16 @@
+{
+  "features": {
+    "model": "TB3-X70F", 
+    "name": "LENOVO TB3-X70F", 
+    "vendor": "LENOVO",
+    "cost":[
+      {
+       "price":99,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"Lenovo TB3-730F 16Gb",
+       "url":"https://www.fnac.com/Tablette-Lenovo-TB3-730F-ZA110186SE-7-16-Go-WiFi-Noir/a10540568/w-4?oref=00000000-0000-0000-0000-000000000000&Origin=SEA_GOOGLE_PLA_MICRO&ectrans=1&ploc=9056136&plid=&pcrid=64457381663&gclid=EAIaIQobChMIz9H_kM2Y1gIViZEbCh1u7w8NEAQYASABEgIkfPD_BwE&ptid=aud-332609258322%3Apla-319953368571"
+      }
+    ]
+  }
+}

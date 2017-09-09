@@ -1,0 +1,16 @@
+{
+  "features": {
+    "model": "ZUK Z2 PLUS", 
+    "name": "LENOVO ZUK Z2 PLUS", 
+    "vendor": "LENOVO",
+    "cost":[
+      {
+       "price":455,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"Lenovo ZUK Z2 Pro",
+       "url":"https://www.amazon.fr/zuk-z2/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Azuk%20z2"
+      }
+    ]
+  }
+}

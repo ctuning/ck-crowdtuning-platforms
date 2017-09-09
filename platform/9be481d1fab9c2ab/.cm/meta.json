@@ -2,6 +2,15 @@
   "features": {
     "model": "M3 NOTE", 
     "name": "MEIZU M3 NOTE", 
-    "vendor": "MEIZU"
+    "vendor": "MEIZU",
+    "cost":[
+      {
+       "price":218,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"Meizu M3 Note 32 Gb",
+       "url":"https://www.fnac.com/Smartphone-Meizu-M3-Note-Double-SIM-32-Go-Gris/a9730055/w-4"
+      }
+    ]
   }
 }

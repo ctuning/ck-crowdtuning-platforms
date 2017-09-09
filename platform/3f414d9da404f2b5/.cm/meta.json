@@ -2,6 +2,15 @@
   "features": {
     "model": "PIXEL", 
     "name": "GOOGLE PIXEL", 
-    "vendor": "GOOGLE"
+    "vendor": "GOOGLE",
+    "cost":[
+      {
+       "price":481,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"Google Pixel 32Go SPW",
+       "url":"https://www.eglobalcentral.fr/google-pixel-32go-spw-4200-desimlocke-argent-fr.html?gclid=EAIaIQobChMIh8G4r7yY1gIVFDPTCh1L6gGJEAkYASABEgJo5fD_BwE"
+      }
+    ]
   }
 }

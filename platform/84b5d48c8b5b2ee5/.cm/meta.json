@@ -2,6 +2,15 @@
   "features": {
     "model": "LG-D855", 
     "name": "LGE LG-D855", 
-    "vendor": "LGE"
+    "vendor": "LGE",
+    "cost":[
+      {
+       "price":349,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"LG G3, 16 Gb",
+       "url":"https://www.fnac.com/Smartphone-LG-G3-16-Go-Noir-Metallique/a7332697/w-4"
+      }
+    ]
   }
 }

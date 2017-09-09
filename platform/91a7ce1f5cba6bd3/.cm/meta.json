@@ -2,6 +2,15 @@
   "features": {
     "model": "REDMI NOTE 4", 
     "name": "XIAOMI REDMI NOTE 4", 
-    "vendor": "XIAOMI"
+    "vendor": "XIAOMI",
+    "cost":[
+      {
+       "price":229,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"XIAOMI Redmi Note 4",
+       "url":"https://www.fnac.com/mp30075084/Smartphone-4G-XIAOMI-Redmi-Note-4-Ecran-5-5-FHD-DecaCore-2-1Ghz-RAM-3GB-ROM-64GB-WiFi-Bluetooth-Dual-Sim-Gold/w-4"
+      }
+    ]
   }
 }

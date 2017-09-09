@@ -2,6 +2,15 @@
   "features": {
     "model": "NEXUS 5X", 
     "name": "LGE NEXUS 5X", 
-    "vendor": "LGE"
+    "vendor": "LGE",
+    "cost":[
+      {
+       "price":219,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"LG Google Nexus 5X",
+       "url":"https://www.bonacheter.com/fr_FR/product/lg-google-nexus-5x-32go-d-simlock-blanc.html?adtype=pla_with_promotion&gclid=EAIaIQobChMIkOuGlc6Y1gIVIQvTCh2J3Qn8EAQYBCABEgK8vfD_BwE"
+      }
+    ]
   }
 }

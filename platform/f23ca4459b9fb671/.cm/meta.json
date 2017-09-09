@@ -1,0 +1,15 @@
+{
+  "features": {
+    "model": "XT1650", 
+    "name": "MOTOROLA XT1650", 
+    "vendor": "MOTOROLA",
+    "cost":[
+      {"price":459,
+       "currency":"EUR",
+       "date":"20170901",
+       "desc":"Moto Z Black 32Gb",
+       "url":"https://www.motorola.fr/products/moto-z?gclid=EAIaIQobChMI4KvdopqY1gIVBZ0bCh1S2gdEEAQYAyABEgJBo_D_BwE"
+      }
+    ]
+  }
+}

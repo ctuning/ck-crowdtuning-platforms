@@ -2,6 +2,14 @@
   "features": {
     "model": "MI 5", 
     "name": "XIAOMI MI 5", 
-    "vendor": "XIAOMI"
+    "vendor": "XIAOMI",
+    "cost":[
+      {"price":317,
+       "currency":"EUR",
+       "date":"20170901",
+       "desc":"Xiaomi Mi 5s 64 Go Gold",
+       "url":"http://www.priceminister.com/mfp/5484989/xiaomi-mi-5?pid=1793644575&bbaid=3060614943&sort=0&xtatc=PUB-%5Bggp%5D-%5BTel-PDA%5D-%5BTelephones-mobiles%5D-%5B1793644575%5D-%5Bneuf%5D-%5BProprodd%5D&ptnrid=pt%7C89207774963%7Cc%7C53462407043%7C1793644575&t=180108&ptnrid=sqQmo2Ix1_dc|pcrid|53462407043|pkw||pmt|&gclid=EAIaIQobChMI-rji7ZiY1gIV1hXTCh2_rgZ9EAQYBCABEgIN__D_BwE"
+      }
+    ]
   }
 }

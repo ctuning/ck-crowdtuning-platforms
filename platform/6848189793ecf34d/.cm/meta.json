@@ -2,6 +2,15 @@
   "features": {
     "model": "MX4 PRO", 
     "name": "MEIZU MX4 PRO", 
-    "vendor": "MEIZU"
+    "vendor": "MEIZU",
+    "cost":[
+      {
+       "price":460,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"MEIZU MX4 PRO 16Gb",
+       "url":"http://www.darty.com/nav/achat/mp/telephonie/telephone_mobile/mobile/jj_cole_meizu_mx4_pro_16go__MK95590998.html?dartycid=sea_shopping-marketplace-online_PLA-Telephonie-et-Mobilite/Smartphone_adgroup_Smartphone/&s_kwcid=AL!289!3!{creative}!{matchtype}!{placement}!{network}!!{keyword}&ef_id=WbPVgQAAAWoNYI2q:20170909175329:s"
+      }
+    ]
   }
 }

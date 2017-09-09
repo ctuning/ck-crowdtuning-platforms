@@ -2,6 +2,15 @@
   "features": {
     "model": "PIXEL XL", 
     "name": "GOOGLE PIXEL XL", 
-    "vendor": "GOOGLE"
+    "vendor": "GOOGLE",
+    "cost":[
+      {
+       "price":541,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"Google Pixel XL 32Gb black",
+       "url":"https://www.bonacheter.com/fr_FR/product/google-pixel-xl-32go-d-simlock-noir.html?adtype=pla_with_promotion&gclid=EAIaIQobChMIiNmQysmY1gIVxRgbCh1aBgLxEAYYAyABEgIVDfD_BwE"
+      }
+    ]
   }
 }

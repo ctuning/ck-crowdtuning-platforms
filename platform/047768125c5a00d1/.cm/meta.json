@@ -2,6 +2,15 @@
   "features": {
     "model": "F3111", 
     "name": "SONY F3111", 
-    "vendor": "SONY"
+    "vendor": "SONY",
+    "cost":[
+      {
+       "price":154,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"SONY XPERIA XA 16 Gb",
+       "url":"https://www.backmarket.fr/sony-xperia-xa-16-go-noir-debloque-tout-operateur-pas-cher/14159.html?gclid=EAIaIQobChMI9vbjtdeY1gIVFDobCh1VJAMIEAYYASABEgKo7vD_BwE&gclsrc=aw.ds#?l=3"
+      }
+    ]
   }
 }

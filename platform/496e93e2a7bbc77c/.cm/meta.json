@@ -2,6 +2,15 @@
   "features": {
     "model": "NEXUS 5", 
     "name": "LGE NEXUS 5", 
-    "vendor": "LGE"
+    "vendor": "LGE",
+    "cost":[
+      {
+       "price":299,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"LG Nexus 5 16Gb",
+       "url":"https://www.fnac.com/Smartphone-LG-Nexus-5-16-Go-Noir/a7112335/w-4?oref=faf3c0d4-4dc6-8eb4-75a5-0166ac78beea&Origin=CMP_GOOGLE_MP_GPS&ectrans=1&ploc=9056136&plid=&pcrid=77058266183&gclid=EAIaIQobChMI6Z3h5NeY1gIV5BbTCh3yagktEAYYAiABEgICe_D_BwE&ptid=aud-332609258322%3Apla-66258480891"
+      }
+    ]
   }
 }

@@ -1,0 +1,16 @@
+{
+  "features": {
+    "model": "SM-G950U", 
+    "name": "SAMSUNG SM-G950U", 
+    "vendor": "SAMSUNG",
+    "cost":[
+      {
+       "price":809,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"Smartphone Samsung Galaxy S8 64 Gb",
+       "url":"https://www.fnac.com/Smartphone-Samsung-Galaxy-S8-64-Go-Noir-Carbone/a10497817/w-4"
+      }
+    ]
+  }
+}

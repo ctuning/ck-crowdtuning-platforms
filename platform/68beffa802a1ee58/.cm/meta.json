@@ -2,6 +2,15 @@
   "features": {
     "model": "Z010D", 
     "name": "ASUS Z010D", 
-    "vendor": "ASUS"
+    "vendor": "ASUS",
+    "cost":[
+      {
+       "price":150,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"ASUS ZenFone Max 16 Gb",
+       "url":"http://www.priceminister.com/mfp/5452361/asus-zenfone-max-zc550kl?pid=1049416663&bbaid=2806263691&sort=0&xtatc=PUB-%5Bggp%5D-%5BTel-PDA%5D-%5BTelephones-mobiles%5D-%5B1049416663%5D-%5Boccasion%5D-%5BTop_Occasion%5D&ptnrid=pt%7C89206472483%7Cc%7C53462407043%7C1049416663&t=180108&ptnrid=saHtfReU0_dc|pcrid|53462407043|pkw||pmt|&gclid=EAIaIQobChMI6pK4u9GY1gIVASjTCh20PQw9EAQYASABEgIa1PD_BwE"
+      }
+    ]
   }
 }

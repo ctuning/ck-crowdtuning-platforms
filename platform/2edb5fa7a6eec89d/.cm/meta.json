@@ -2,6 +2,15 @@
   "features": {
     "model": "REDMI NOTE 3", 
     "name": "XIAOMI REDMI NOTE 3", 
-    "vendor": "XIAOMI"
+    "vendor": "XIAOMI",
+    "cost":[
+      {
+       "price":229,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"XIAOMI Redmi Note 3 - 32Gb",
+       "url":"https://www.fnac.com/mp27271851/Smartphone-XIAOMI-Redmi-Note-3-32Gb-4G-Ecran-5-5-Dual-Sim-Blanc/w-4"
+      }
+    ]
   }
 }

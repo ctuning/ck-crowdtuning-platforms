@@ -2,6 +2,15 @@
   "features": {
     "model": "Y330-U01",
     "name": "HUAWEI Y330-U01",
-    "vendor": "HUAWEI"
+    "vendor": "HUAWEI",
+    "cost":[
+      {
+       "price":69,
+       "currency":"EUR",
+       "date":"20160909",
+       "desc":"",
+       "url":"https://www.ldlc.com/fiche/PB00166594.html"
+      }
+    ]
   }
 }

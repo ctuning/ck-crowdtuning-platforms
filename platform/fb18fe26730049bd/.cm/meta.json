@@ -2,6 +2,15 @@
   "features": {
     "model": "SM-G920F", 
     "name": "SAMSUNG SM-G920F", 
-    "vendor": "SAMSUNG"
+    "vendor": "SAMSUNG",
+    "cost":[
+      {
+       "price":239,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"GALAXY S6 32 Gb",
+       "url":"https://www.backmarket.fr/samsung-galaxy-s6-32-go-noir-debloque-tout-operateur-pas-cher/2289.html?gclid=EAIaIQobChMIy7eDxc6Y1gIVMhbTCh1gYgBBEAQYASABEgLiS_D_BwE&gclsrc=aw.ds#?l=3"
+      }
+    ]
   }
 }

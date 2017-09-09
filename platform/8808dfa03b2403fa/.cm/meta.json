@@ -2,6 +2,15 @@
   "features": {
     "model": "E5823", 
     "name": "SONY E5823", 
-    "vendor": "SONY"
+    "vendor": "SONY",
+    "cost":[
+      {
+       "price":279,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"Sony XPERIA Z5 COMPACT",
+       "url":"http://www.darty.com/nav/achat/gps_communication/telephone_mobile/telephone_portable/sony_z5_compact_noir.html?dartycid=sea_shopping-marketplace-online_PLA-Telephonie-et-Mobilite/Smartphone_adgroup_Smartphone/&s_kwcid=AL!289!3!{creative}!{matchtype}!{placement}!{network}!!{keyword}&ef_id=WbPVgQAAAWoNYI2q:20170909175231:s"
+      }
+    ]
   }
 }

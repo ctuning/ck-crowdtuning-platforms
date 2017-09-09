@@ -2,6 +2,15 @@
   "features": {
     "model": "SM-N920V", 
     "name": "SAMSUNG SM-N920V", 
-    "vendor": "SAMSUNG"
+    "vendor": "SAMSUNG",
+    "cost":[
+      {
+       "price":372,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"Samsung Galaxy Note 5 64Gb",
+       "url":"https://www.bonacheter.com/fr_FR/product/samsung-galaxy-note-5-n9208-4g-lte-64go-dual-sim-d-simlock-or-fran-ais-non-disponible-anglais-uniquement.html?adtype=pla_with_promotion&gclid=EAIaIQobChMI2dGk2cyY1gIVTp4bCh3XiABmEAQYAyABEgL8DfD_BwE"
+      }
+    ]
   }
 }

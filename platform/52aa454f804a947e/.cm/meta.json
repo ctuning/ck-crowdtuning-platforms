@@ -2,6 +2,15 @@
   "features": {
     "model": "ONE", 
     "name": "HTC ONE", 
-    "vendor": "HTC"
+    "vendor": "HTC",
+    "cost":[
+      {
+       "price":160,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"HTC One 32 Gb",
+       "url":"http://www.priceminister.com/mfp/200823/htc-one?pid=196577606&bbaid=2013395897&sort=0&xtatc=PUB-%5Bggp%5D-%5BTel-PDA%5D-%5BTelephones-mobiles%5D-%5B196577606%5D-%5Bneuf%5D-%5Bcsmren%5D&ptnrid=pt%7C274397589571%7Cc%7C167567836005%7C196577606&t=180158&ptnrid=sgKZr0wjP_dc|pcrid|167567836005|pkw||pmt|&gclid=EAIaIQobChMI2ZaZldiY1gIVx5kbCh3HAQ6qEAYYASABEgKnNPD_BwE"
+      }
+    ]
   }
 }

@@ -2,6 +2,15 @@
   "features": {
     "model": "M3S", 
     "name": "MEIZU M3S", 
-    "vendor": "MEIZU"
+    "vendor": "MEIZU",
+    "cost":[
+      {
+       "price":169,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"Meizu M3s 16 Gb",
+       "url":"https://www.ldlc.com/fiche/PB00215181.html"
+      }
+    ]
   }
 }

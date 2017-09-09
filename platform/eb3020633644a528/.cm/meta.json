@@ -2,6 +2,14 @@
   "features": {
     "model": "SM-G950F", 
     "name": "SAMSUNG SM-G950F", 
-    "vendor": "SAMSUNG"
+    "vendor": "SAMSUNG",
+    "cost":[
+      {"price":659,
+       "currency":"EUR",
+       "date":"20170901",
+       "desc":"Samsung Galaxy S8 Black 64Gb",
+       "url":"http://www.samsung.com/fr/smartphones/galaxy-s8/shop/?cid=fr_ppc_google_galaxy-s8-pla"
+      }
+    ]
   }
 }

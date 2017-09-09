@@ -2,6 +2,15 @@
   "features": {
     "model": "SM-J510FN", 
     "name": "SAMSUNG SM-J510FN", 
-    "vendor": "SAMSUNG"
+    "vendor": "SAMSUNG",
+    "cost":[
+      {
+       "price":159,
+       "currency":"EUR",
+       "date":"20170909",
+       "desc":"Samsung Galaxy J5",
+       "url":"https://www.bonacheter.com/fr_FR/product/samsung-galaxy-j5-j510fd-16go-dual-sim-d-simlock-noir-version-2016.html?matchtype=&adposition=1o1&gclid=EAIaIQobChMI3YCry9KY1gIVNCjTCh3NOARfEAYYASABEgJ_fvD_BwE"
+      }
+    ]
   }
 }

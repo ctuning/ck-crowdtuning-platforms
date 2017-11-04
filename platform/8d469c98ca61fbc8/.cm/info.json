@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "8d469c98ca61fbc8", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-10-31T01:07:50.982630", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-N950U"
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "5d49354b2c42225d", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-10-13T17:30:18.683636", 
+    "version": [
+      "1", 
+      "9", 
+      "2", 
+      "1"
+    ]
+  }, 
+  "data_name": "ZTE A2017U"
+}

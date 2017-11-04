@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "d4b34b515bb19604", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-10-24T08:46:13.064219", 
+    "version": [
+      "1", 
+      "9", 
+      "3", 
+      "1"
+    ]
+  }, 
+  "data_name": "ASUSTeK COMPUTER INC. 1.0 (X751LJ)"
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "c63bda2b7564f24b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-10-07T19:39:32.584176", 
+    "version": [
+      "1", 
+      "9", 
+      "2", 
+      "1"
+    ]
+  }, 
+  "data_name": "LGE LGMS210"
+}

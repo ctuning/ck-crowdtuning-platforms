@@ -1,0 +1,15 @@
+{
+  "backup_data_uid": "c09ac3894e14a70a", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-10-27T15:27:22.324739", 
+    "version": [
+      "1", 
+      "9", 
+      "4"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-J3110"
+}

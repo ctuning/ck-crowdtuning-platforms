@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "0ab47a027c4489b7", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-09-29T09:58:14.676093", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "MT6797T"
+}

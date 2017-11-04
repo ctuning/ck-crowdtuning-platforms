@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "204ff5acfa1c3056", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-09-10T06:33:08.279094", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "sc9832"
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "a3674099a257243b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-10-31T06:07:24.795182", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-G925A"
+}

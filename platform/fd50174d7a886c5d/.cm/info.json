@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "fd50174d7a886c5d", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-10-06T20:26:31.153809", 
+    "version": [
+      "1", 
+      "9", 
+      "2", 
+      "1"
+    ]
+  }, 
+  "data_name": "ZTE TURKCELL T50"
+}

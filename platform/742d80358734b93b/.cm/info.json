@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "742d80358734b93b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-10-15T16:14:51.776157", 
+    "version": [
+      "1", 
+      "9", 
+      "2", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-G610F"
+}

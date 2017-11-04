@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "784942138a4d9652", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-10-04T10:48:56.887504", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "LGE LG-D800"
+}

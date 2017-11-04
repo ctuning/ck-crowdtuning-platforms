@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "cdff6c764a37b476", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-09-27T05:47:12.194147", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "sc9830"
+}

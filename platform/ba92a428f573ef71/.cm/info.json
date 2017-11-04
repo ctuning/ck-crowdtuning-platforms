@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "ba92a428f573ef71", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-10-27T11:46:51.934960", 
+    "version": [
+      "1", 
+      "9", 
+      "3", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-J200GU"
+}

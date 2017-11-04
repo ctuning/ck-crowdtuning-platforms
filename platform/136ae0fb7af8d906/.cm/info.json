@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "136ae0fb7af8d906", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-09-20T10:34:34.987774", 
+    "version": [
+      "1", 
+      "9", 
+      "1", 
+      "1"
+    ]
+  }, 
+  "data_name": "ZTE K88"
+}

@@ -1,0 +1,13 @@
+{
+  "features": {
+    "name": "Movidius MA2X5X", 
+    "vendor": "Movidius Ltd.",
+    "cost":[
+      {"price":85,
+       "currency":"EUR",
+       "date":"20171030",
+       "desc":"Movidius MA2X5X"
+      }
+    ]
+  }
+}

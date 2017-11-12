@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "d844b4e478ba05f8", 
+  "backup_module_uid": "76de04d524bbea7f", 
+  "backup_module_uoa": "platform.nn", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-11-12T12:57:18.860414", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "Movidius MA2X5X"
+}

@@ -1,0 +1,19 @@
+{
+  "features": {
+    "name": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz", 
+    "type": "opencl", 
+    "vendor": "Intel(R) Corporation"
+  }, 
+  "features_misc": {
+    "- max work-item size #0": "8192", 
+    "- max work-item size #1": "8192", 
+    "- max work-item size #2": "8192", 
+    "address bits": "64", 
+    "hardware (device) version": "OpenCL 2.1 (Build 392)", 
+    "opencl c version": "OpenCL C 2.0", 
+    "parallel compute units": "4", 
+    "software (driver) version": "6.8.0.392", 
+    "unified memory": "yes", 
+    "work-item dimensions": "3"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "44c55d348ac8a64f", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-02-18T21:02:47.715583", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-A300FU"
+}

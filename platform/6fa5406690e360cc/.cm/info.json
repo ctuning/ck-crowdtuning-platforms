@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "6fa5406690e360cc", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-12-07T10:51:48.842677", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-J701F"
+}

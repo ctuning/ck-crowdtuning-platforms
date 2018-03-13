@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "78d2711038743971", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-11-28T01:19:21.526326", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "HUAWEI SCL-AL00"
+}

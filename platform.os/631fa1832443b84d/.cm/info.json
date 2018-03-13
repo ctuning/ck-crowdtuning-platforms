@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "631fa1832443b84d", 
+  "backup_module_uid": "41e31cc4496b8a8e", 
+  "backup_module_uoa": "platform.os", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-01-04T15:20:25.011620", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "Android 4.1.2"
+}

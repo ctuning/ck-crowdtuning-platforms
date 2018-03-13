@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "118e0db687409a9b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-02-21T23:31:38.137078", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "LGE LG-TP450"
+}

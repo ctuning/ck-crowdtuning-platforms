@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "592aa14bc08af43f", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-11-08T19:02:54.044121", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "LENOVO 3300-GV"
+}

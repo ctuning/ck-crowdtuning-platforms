@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "4c7da28e52f94ccb", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-11-12T08:36:31.062715", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "UNIVERSAL5420"
+}

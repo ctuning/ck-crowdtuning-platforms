@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "ee69308457ba2e33", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-11-14T17:08:58.538488", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "LGE LG-H700"
+}

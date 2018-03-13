@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "5fb0fc70fa4bcc91", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-12-06T08:04:47.807180", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "ALLVIEW P6_LITE_TM"
+}

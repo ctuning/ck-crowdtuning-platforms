@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "b29e5a367b649a0b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-01-27T09:38:22.084188", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "ELEPHONE P8_MINI"
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "04a815689468b81b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-02-18T15:40:01.754091", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-J327P"
+}

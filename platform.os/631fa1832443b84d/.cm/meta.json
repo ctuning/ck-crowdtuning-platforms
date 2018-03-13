@@ -1,0 +1,11 @@
+{
+  "features": {
+    "bits": "32", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-32", 
+    "name": "Android 4.1.2", 
+    "name_long": "Linux version 3.4.0-927796 (dpi@DELL133) (gcc version 4.6.x-google 20120106 (prerelease) (GCC) ) #1 SMP PREEMPT Fri Sep 6 13:36:17 KST 2013", 
+    "name_short": "Linux version 3.4.0", 
+    "serial_number": ""
+  }
+}

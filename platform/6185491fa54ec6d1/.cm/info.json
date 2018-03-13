@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "6185491fa54ec6d1", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-11-18T11:55:27.985479", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "LGE LG-D375AR"
+}

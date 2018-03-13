@@ -1,0 +1,19 @@
+{
+  "features": {
+    "name": "Intel(R) HD Graphics 630", 
+    "type": "opencl", 
+    "vendor": "Intel(R) Corporation"
+  }, 
+  "features_misc": {
+    "- max work-item size #0": "256", 
+    "- max work-item size #1": "256", 
+    "- max work-item size #2": "256", 
+    "address bits": "64", 
+    "hardware (device) version": "OpenCL 2.1", 
+    "opencl c version": "OpenCL C 2.0", 
+    "parallel compute units": "23", 
+    "software (driver) version": "21.20.16.4550", 
+    "unified memory": "yes", 
+    "work-item dimensions": "3"
+  }
+}

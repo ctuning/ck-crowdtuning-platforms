@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "8a72ce543fc9e35d", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-12-03T17:17:19.453744", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "OPPO A37F"
+}

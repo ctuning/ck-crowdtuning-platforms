@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "cd763aa4a98af624", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-02-09T16:05:19.642704", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "ASUS A002"
+}

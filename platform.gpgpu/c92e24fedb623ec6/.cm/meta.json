@@ -1,0 +1,21 @@
+{
+  "features": {
+    "name": "Mali-G71", 
+    "type": "opencl", 
+    "vendor": "ARM"
+  }, 
+  "features_misc": {
+    "- max work-item size #0": "256", 
+    "- max work-item size #1": "256", 
+    "- max work-item size #2": "256", 
+    "address bits": "64", 
+    "application name set to": "Untitled", 
+    "hardware (device) version": "OpenCL 2.0 v1.r6p0-01rel0.24c5f5e966f2b7f1f19b91d6f32ff53e", 
+    "opencl c version": "OpenCL C 2.0 v1.r6p0-01rel0.24c5f5e966f2b7f1f19b91d6f32ff53e", 
+    "output directory set to": ".", 
+    "parallel compute units": "8", 
+    "software (driver) version": "2.0", 
+    "unified memory": "yes", 
+    "work-item dimensions": "3"
+  }
+}

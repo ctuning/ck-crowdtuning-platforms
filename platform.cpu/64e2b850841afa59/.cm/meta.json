@@ -1,0 +1,19 @@
+{
+  "features": {
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+    "max_freq": {
+      "0": 1843.2, 
+      "1": 1843.2, 
+      "2": 1843.2, 
+      "3": 1843.2, 
+      "4": 2208, 
+      "5": 2208, 
+      "6": 2208, 
+      "7": 2208
+    }, 
+    "name": "Qualcomm Technologies, Inc SDM660", 
+    "num_proc": "8", 
+    "sub_name": "AArch64 Processor rev 2 (aarch64)"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "05219675c954402b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-01-05T07:06:51.576870", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "MOTOROLA MOTO G (5)"
+}

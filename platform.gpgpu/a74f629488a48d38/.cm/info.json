@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "a74f629488a48d38", 
+  "backup_module_uid": "192ed4e0bbdbe743", 
+  "backup_module_uoa": "platform.gpgpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-11-20T10:29:49.561020", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz"
+}

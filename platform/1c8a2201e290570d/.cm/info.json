@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "1c8a2201e290570d", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-12-07T06:54:34.063855", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "INTEX AQUA 3G PRO Q"
+}

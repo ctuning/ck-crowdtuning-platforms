@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "c92e24fedb623ec6", 
+  "backup_module_uid": "192ed4e0bbdbe743", 
+  "backup_module_uoa": "platform.gpgpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-02-20T13:04:09.486874", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "Mali-G71"
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "b6744ce1b52352ea", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-12-06T08:04:47.411355", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "MT8321M"
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "c45b9ba62e50b6d7", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-12-01T16:35:28.158125", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG GT-I9082"
+}

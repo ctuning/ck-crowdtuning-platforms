@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "a639da3c4e4412b3", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-01-11T12:21:02.847688", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "HAIER LS-5018"
+}

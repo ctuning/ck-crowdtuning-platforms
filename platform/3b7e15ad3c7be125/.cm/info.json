@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "3b7e15ad3c7be125", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-11-11T22:22:31.913615", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "DOOGEE X5MAX_PRO"
+}

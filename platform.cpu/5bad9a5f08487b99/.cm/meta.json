@@ -1,0 +1,25 @@
+{
+  "features": {
+    "BogoMIPS": "3.84", 
+    "CPU architecture": "8", 
+    "CPU implementer": "0x41", 
+    "CPU part": "0xd09", 
+    "CPU revision": "1", 
+    "CPU variant": "0x0", 
+    "Features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+    "all_freqs": [
+      "4", 
+      "4", 
+      "4", 
+      "4", 
+      "4"
+    ], 
+    "ck_cpu_name": "0x41-8-0x0-0xd09-1", 
+    "cpu_abi": "", 
+    "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+    "cur_freq": 2362, 
+    "max_freq": 2362, 
+    "new_format": "yes", 
+    "processor": "4"
+  }
+}

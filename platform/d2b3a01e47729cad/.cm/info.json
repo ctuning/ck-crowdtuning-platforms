@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "d2b3a01e47729cad", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-12-27T16:31:53.217330", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "ZTE Z982"
+}

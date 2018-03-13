@@ -1,0 +1,12 @@
+{
+  "features": {
+    "abi": "x86_64", 
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "Ubuntu 17.10", 
+    "name_long": "Linux-4.13.0-36-generic-x86_64-with-Ubuntu-17.10-artful", 
+    "name_short": "Linux 4.13.0", 
+    "serial_number": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "features": {
+    "abi": "aarch64", 
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "Debian GNU/Linux 9 (stretch)", 
+    "name_long": "Linux-4.4.74-00216-g10816f6-aarch64-with-debian-9.1", 
+    "name_short": "Linux 4.4.74", 
+    "serial_number": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "44647b68a452a850", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2017-12-05T17:32:38.811498", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "VIVO 1716"
+}

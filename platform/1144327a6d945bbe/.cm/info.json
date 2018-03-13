@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "1144327a6d945bbe", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-02-09T23:03:24.619831", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "SONY C6833"
+}

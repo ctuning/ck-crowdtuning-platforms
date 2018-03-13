@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "894698a17e591c9a", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-01-14T03:20:29.849040", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "OPPO A51F"
+}

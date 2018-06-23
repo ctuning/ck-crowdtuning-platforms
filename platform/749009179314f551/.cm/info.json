@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "749009179314f551", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-06-08T13:54:38.440810", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "HP (ProLiant DL360 Gen9)"
+}

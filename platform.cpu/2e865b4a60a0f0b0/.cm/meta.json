@@ -1,0 +1,25 @@
+{
+  "features": {
+    "all_freqs": {}, 
+    "cpu_abi": "", 
+    "cpu_features": "half thumb fastmult vfp edsp neon vfpv3 tls vfpd32", 
+    "max_freq": {
+      "0": 0
+    }, 
+    "name": "Xilinx Zynq Platform", 
+    "num_proc": "2", 
+    "sub_name": "ARMv7 Processor rev 0 (v7l)", 
+    "workload_automation": {
+      "device_config": {
+        "core_clusters": [
+          0, 
+          1
+        ], 
+        "core_names": [
+          "ARMv7 Processor rev 0 (v7l)", 
+          "Xilinx Zynq Platform"
+        ]
+      }
+    }
+  }
+}

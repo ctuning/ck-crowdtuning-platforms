@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "b2970d0d7e46bcbf", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-06-08T13:54:38.161880", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "Matrox Electronics Systems Ltd. MGA G200EH (rev 01)"
+}

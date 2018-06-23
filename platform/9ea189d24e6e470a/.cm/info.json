@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "9ea189d24e6e470a", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-05-15T18:27:07.045588", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "LGE LGL16C"
+}

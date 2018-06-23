@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "505b67b40f78f1a3", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-06-04T19:47:31.348842", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "ARM Mali-G72"
+}

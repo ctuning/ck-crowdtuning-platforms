@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "22899f40778d27bc", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-04-07T11:26:10.358962", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "MT6738"
+}

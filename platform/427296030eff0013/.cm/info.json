@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "427296030eff0013", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-03-31T03:19:40.866759", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "MOTOROLA MOTO E (4)"
+}

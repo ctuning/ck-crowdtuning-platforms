@@ -1,0 +1,12 @@
+{
+  "features": {
+    "abi": "aarch64", 
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "Ubuntu 16.04.4 LTS", 
+    "name_long": "Linux-4.4.77-aarch64-with-Ubuntu-16.04-xenial", 
+    "name_short": "Linux 4.4.77", 
+    "serial_number": ""
+  }
+}

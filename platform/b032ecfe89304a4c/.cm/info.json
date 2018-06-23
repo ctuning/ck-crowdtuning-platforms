@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "b032ecfe89304a4c", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-04-21T14:02:37.427737", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "ITEL IT1508 PLUS"
+}

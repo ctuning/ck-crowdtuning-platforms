@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "a5a2a0c01554255b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-06-10T07:43:18.204603", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "UNKNOWN VIVO X9"
+}

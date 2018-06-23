@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "d063d8bb9146da9c", 
+  "backup_module_uid": "41e31cc4496b8a8e", 
+  "backup_module_uoa": "platform.os", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-04-19T13:29:23.455657", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "CentOS Linux 7 (Core)"
+}

@@ -1,0 +1,7 @@
+{
+  "features": {
+    "model": "PYNQ-Z1", 
+    "name": "XILINX PYNQ-Z1", 
+    "vendor": "XILINX"
+  }
+}

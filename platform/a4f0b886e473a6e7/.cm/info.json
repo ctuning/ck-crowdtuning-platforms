@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "a4f0b886e473a6e7", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-05-20T22:14:32.295912", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "ZTE N9560"
+}

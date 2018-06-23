@@ -1,0 +1,12 @@
+{
+  "features": {
+    "abi": "x86_64", 
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "CentOS Linux 7 (Core)", 
+    "name_long": "Linux-3.10.0-693.5.2.el7.x86_64-x86_64-with-centos-7.4.1708-Core", 
+    "name_short": "Linux 3.10.0", 
+    "serial_number": ""
+  }
+}

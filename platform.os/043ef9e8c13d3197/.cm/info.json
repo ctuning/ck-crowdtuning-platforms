@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "043ef9e8c13d3197", 
+  "backup_module_uid": "41e31cc4496b8a8e", 
+  "backup_module_uoa": "platform.os", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-04-12T10:08:21.660318", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "Ubuntu 16.04.4 LTS"
+}

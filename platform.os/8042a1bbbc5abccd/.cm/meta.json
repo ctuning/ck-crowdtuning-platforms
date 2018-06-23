@@ -1,0 +1,12 @@
+{
+  "features": {
+    "abi": "", 
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "android25-arm64", 
+    "name": "Android 8.0.0", 
+    "name_long": "Linux version 4.4.13-13201289-QB17339056 (dpi@SWDG2922) (gcc version 4.9.x 20150123 (prerelease) (GCC) ) #1 SMP PREEMPT Thu Mar 15 18:46:17 KST 2018", 
+    "name_short": "Linux version 4.4.13", 
+    "serial_number": "ce0118214101212602"
+  }
+}

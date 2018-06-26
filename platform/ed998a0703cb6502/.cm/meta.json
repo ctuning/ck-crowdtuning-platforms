@@ -1,6 +1,13 @@
 {
   "features": {
-    "model": "SUNNY2 PLUS", 
+   "cost": [
+      {
+        "currency": "EUR", 
+        "date": "20180403", 
+        "desc": "Wiko SUNNY 2 PLUS", 
+        "price": 70
+      }
+    ],     "model": "SUNNY2 PLUS", 
     "name": "WIKO SUNNY2 PLUS", 
     "vendor": "WIKO"
   }

@@ -39,6 +39,7 @@ Installation
  > ck list platform.gpgpu --print_name | sort
  > ck list platform.gpu --print_name | sort
  > ck list platform.nn --print_name | sort
+ > ck list platform.npu --print_name | sort
  > ck list platform.os --print_name  | sort
 
  > ck load platform.cpu:40bc4c800b3f8e3d --min

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "a8ac46e4a8b8330f", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-06-26T23:07:05.531368", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "Qualcomm Technologies, Inc SDM636"
+}

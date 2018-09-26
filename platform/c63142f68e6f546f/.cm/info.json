@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "c63142f68e6f546f", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-07-04T15:31:36.257268", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "XIAOMI REDMI NOTE 5A"
+}

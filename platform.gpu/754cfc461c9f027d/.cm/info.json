@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "754cfc461c9f027d", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-08-03T11:37:38.998229", 
+    "version": [
+      "1", 
+      "9", 
+      "5", 
+      "1"
+    ]
+  }, 
+  "data_name": "Qualcomm Adreno (TM) 630"
+}

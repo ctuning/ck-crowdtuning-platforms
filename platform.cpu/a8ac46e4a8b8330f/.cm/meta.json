@@ -1,0 +1,19 @@
+{
+  "features": {
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+    "max_freq": {
+      "0": 1612.8, 
+      "1": 1612.8, 
+      "2": 1612.8, 
+      "3": 1612.8, 
+      "4": 1804.8, 
+      "5": 1804.8, 
+      "6": 1804.8, 
+      "7": 1804.8
+    }, 
+    "name": "Qualcomm Technologies, Inc SDM636", 
+    "num_proc": "8", 
+    "sub_name": "AArch64 Processor rev 2 (aarch64)"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "features": {
+    "max_freq": {
+      "0": 2200
+    }, 
+    "name": "Intel(R) Core(TM) i3-5020U CPU @ 2.20GHz", 
+    "num_proc": 4, 
+    "sub_name": "Intel(R) Core(TM) i3-5020U CPU @ 2.20GHz"
+  }
+}

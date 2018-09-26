@@ -1,0 +1,15 @@
+{
+  "backup_data_uid": "29463057e15c4e45", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-08-01T10:59:35.147812", 
+    "version": [
+      "1", 
+      "9", 
+      "5"
+    ]
+  }, 
+  "data_name": "LENOVO TAB 2 A8-50F"
+}

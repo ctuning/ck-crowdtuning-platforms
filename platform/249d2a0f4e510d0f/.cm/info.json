@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "249d2a0f4e510d0f", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-09-20T20:42:30.619533", 
+    "version": [
+      "1", 
+      "9", 
+      "5", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG GT-I8200L"
+}

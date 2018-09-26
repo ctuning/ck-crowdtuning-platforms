@@ -1,0 +1,10 @@
+{
+  "features": {
+    "max_freq": {
+      "0": 3501
+    }, 
+    "name": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz", 
+    "num_proc": 4, 
+    "sub_name": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz"
+  }
+}

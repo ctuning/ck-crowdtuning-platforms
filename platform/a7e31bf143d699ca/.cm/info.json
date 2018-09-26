@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "a7e31bf143d699ca", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-09-07T09:30:09.394045", 
+    "version": [
+      "1", 
+      "9", 
+      "5", 
+      "1"
+    ]
+  }, 
+  "data_name": "QEMU pc-i440fx-2.5 (Standard PC (i440FX   PIIX, 1996))"
+}

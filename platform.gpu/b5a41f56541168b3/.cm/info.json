@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "b5a41f56541168b3", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-09-07T09:30:08.740304", 
+    "version": [
+      "1", 
+      "9", 
+      "5", 
+      "1"
+    ]
+  }, 
+  "data_name": "Red Hat, Inc. QXL paravirtual graphic card (rev 04)"
+}

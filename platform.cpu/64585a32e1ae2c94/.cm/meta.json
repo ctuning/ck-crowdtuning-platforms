@@ -1,0 +1,19 @@
+{
+  "features": {
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp", 
+    "max_freq": {
+      "0": 1766.4, 
+      "1": 1766.4, 
+      "2": 1766.4, 
+      "3": 1766.4, 
+      "4": 2803.2, 
+      "5": 2803.2, 
+      "6": 2803.2, 
+      "7": 2803.2
+    }, 
+    "name": "Qualcomm Technologies, Inc SDM845", 
+    "num_proc": "8", 
+    "sub_name": "AArch64 Processor rev 12 (aarch64)"
+  }
+}

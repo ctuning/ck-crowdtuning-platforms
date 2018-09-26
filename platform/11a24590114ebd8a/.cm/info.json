@@ -1,0 +1,15 @@
+{
+  "backup_data_uid": "11a24590114ebd8a", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-07-26T12:13:09.622026", 
+    "version": [
+      "1", 
+      "9", 
+      "5"
+    ]
+  }, 
+  "data_name": "TOSHIBA PSCPLU-005004 (Satellite C55t-C)"
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "17bd69a3ec39d69c", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-08-17T19:21:44.762848", 
+    "version": [
+      "1", 
+      "9", 
+      "5", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG YP-GI1"
+}

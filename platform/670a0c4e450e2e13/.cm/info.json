@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "670a0c4e450e2e13", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-06-25T06:40:12.219580", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "ZTE Z557BL"
+}

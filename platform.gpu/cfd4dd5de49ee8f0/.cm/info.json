@@ -1,0 +1,15 @@
+{
+  "backup_data_uid": "cfd4dd5de49ee8f0", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-07-28T03:44:42.755524", 
+    "version": [
+      "1", 
+      "9", 
+      "5"
+    ]
+  }, 
+  "data_name": "NVIDIA GeForce GTX 1080 Ti"
+}

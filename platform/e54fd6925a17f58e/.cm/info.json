@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "e54fd6925a17f58e", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-09-08T05:34:38.375465", 
+    "version": [
+      "1", 
+      "9", 
+      "5", 
+      "1"
+    ]
+  }, 
+  "data_name": "HTC DESIRE 320"
+}

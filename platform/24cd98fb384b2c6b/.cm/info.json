@@ -1,0 +1,15 @@
+{
+  "backup_data_uid": "24cd98fb384b2c6b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-07-19T21:35:09.027344", 
+    "version": [
+      "1", 
+      "9", 
+      "5"
+    ]
+  }, 
+  "data_name": "ONEPLUS ONE A2003"
+}

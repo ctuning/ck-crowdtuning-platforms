@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "963fd33440b29727", 
+  "backup_module_uid": "41e31cc4496b8a8e", 
+  "backup_module_uoa": "platform.os", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-09-06T06:27:20.063041", 
+    "version": [
+      "1", 
+      "9", 
+      "5", 
+      "1"
+    ]
+  }, 
+  "data_name": "Android 6.0"
+}

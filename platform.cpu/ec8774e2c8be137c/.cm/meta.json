@@ -1,0 +1,19 @@
+{
+  "features": {
+    "cpu_abi": "arm64-v8a", 
+    "cpu_features": "fp asimd evtstrm aes pmull sha1 sha2 crc32", 
+    "max_freq": {
+      "0": 1690, 
+      "1": 1690, 
+      "2": 1690, 
+      "3": 1690, 
+      "4": 2392, 
+      "5": 2392, 
+      "6": 2392, 
+      "7": 2392
+    }, 
+    "name": "MT6757WD", 
+    "num_proc": "8", 
+    "sub_name": "AArch64 Processor rev 4 (aarch64)"
+  }
+}

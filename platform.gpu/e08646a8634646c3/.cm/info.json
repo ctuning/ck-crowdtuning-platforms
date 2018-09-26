@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "e08646a8634646c3", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-06-26T23:07:04.942901", 
+    "version": [
+      "1", 
+      "9", 
+      "4", 
+      "1"
+    ]
+  }, 
+  "data_name": "Qualcomm Adreno (TM) 509"
+}

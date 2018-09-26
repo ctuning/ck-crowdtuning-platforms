@@ -1,0 +1,10 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "swp half thumb fastmult vfp edsp neon vfpv3", 
+    "max_freq": {}, 
+    "name": "Hugo Samsung Board", 
+    "num_proc": "0", 
+    "sub_name": "ARMv7 Processor rev 2 (v7l)"
+  }
+}

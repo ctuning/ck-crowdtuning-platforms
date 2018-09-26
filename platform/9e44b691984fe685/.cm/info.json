@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "9e44b691984fe685", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-08-03T11:37:39.769430", 
+    "version": [
+      "1", 
+      "9", 
+      "5", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-G965U"
+}

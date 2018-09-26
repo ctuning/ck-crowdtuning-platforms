@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "f32eb8421234261b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-08-01T16:30:14.820684", 
+    "version": [
+      "1", 
+      "9", 
+      "5", 
+      "1"
+    ]
+  }, 
+  "data_name": "LGE VS988"
+}

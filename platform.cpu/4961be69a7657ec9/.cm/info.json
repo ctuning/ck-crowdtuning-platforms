@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "4961be69a7657ec9", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-09-07T09:30:07.111903", 
+    "version": [
+      "1", 
+      "9", 
+      "5", 
+      "1"
+    ]
+  }, 
+  "data_name": "Intel Core Processor (Broadwell)"
+}

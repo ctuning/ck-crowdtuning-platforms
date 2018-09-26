@@ -1,0 +1,15 @@
+{
+  "backup_data_uid": "339c24d3c85e4f4e", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-07-18T14:52:19.649284", 
+    "version": [
+      "1", 
+      "9", 
+      "5"
+    ]
+  }, 
+  "data_name": "HUAWEI G620S-L01"
+}

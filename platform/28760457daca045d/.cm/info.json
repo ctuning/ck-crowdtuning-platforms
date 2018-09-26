@@ -1,0 +1,15 @@
+{
+  "backup_data_uid": "28760457daca045d", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-07-25T10:28:45.330940", 
+    "version": [
+      "1", 
+      "9", 
+      "5"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-J106F"
+}

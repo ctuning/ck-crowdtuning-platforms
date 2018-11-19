@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "12baa955fe31fc29", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-10-10T20:37:41.415545", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "HMD GLOBAL NOKIA 6.1"
+}

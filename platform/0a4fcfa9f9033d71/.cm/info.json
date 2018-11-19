@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "0a4fcfa9f9033d71", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-10-20T15:49:10.341833", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "SPA CONDOR ELECTRONICS PGN610"
+}

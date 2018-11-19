@@ -1,0 +1,12 @@
+{
+  "features": {
+    "abi": "x86_64", 
+    "bits": "32", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "Android 6.0.1", 
+    "name_long": "Linux version 3.10.73-gf97f123 (android-build@wpiu4.hot.corp.google.com) (gcc version 4.9.x-google 20140827 (prerelease) (GCC) ) #1 SMP PREEMPT Mon Nov 2 20:10:58 UTC 2015", 
+    "name_short": "Linux version 3.10.73", 
+    "serial_number": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "features": {
+    "abi": "x86_64", 
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "Scientific Linux 7.5 (Nitrogen)", 
+    "name_long": "Linux-3.10.0-862.14.4.el7.x86_64-x86_64-with-redhat-7.5-Nitrogen", 
+    "name_short": "Linux 3.10.0", 
+    "serial_number": ""
+  }
+}

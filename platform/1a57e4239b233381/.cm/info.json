@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "1a57e4239b233381", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-11-11T22:52:33.166799", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-G530FZ"
+}

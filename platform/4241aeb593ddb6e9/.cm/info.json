@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "4241aeb593ddb6e9", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-10-26T14:12:48.600847", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "FUJITSU (ESPRIMO P920)"
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "762d56a4e19afbfb", 
+  "backup_module_uid": "41e31cc4496b8a8e", 
+  "backup_module_uoa": "platform.os", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-11-14T18:57:31.075152", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "Mac OS X 10.12.6"
+}

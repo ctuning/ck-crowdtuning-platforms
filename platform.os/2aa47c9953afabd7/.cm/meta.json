@@ -1,0 +1,12 @@
+{
+  "features": {
+    "abi": "x86_64", 
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "NSDL V3.1.201805(ZTE)", 
+    "name_long": "Linux-4.8.6-201.fc21.x86_64-x86_64-with-redhat-3.1", 
+    "name_short": "Linux 4.8.6", 
+    "serial_number": ""
+  }
+}

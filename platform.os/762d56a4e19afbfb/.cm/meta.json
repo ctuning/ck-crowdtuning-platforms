@@ -1,0 +1,12 @@
+{
+  "features": {
+    "abi": "", 
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "macos-64", 
+    "name": "Mac OS X 10.12.6", 
+    "name_long": "Darwin-16.7.0-x86_64-i386-64bit", 
+    "name_short": "Darwin 16.7.0", 
+    "serial_number": ""
+  }
+}

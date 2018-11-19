@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "02484ea19a249a2f", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-10-10T20:37:40.605553", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "Qualcomm Adreno (TM) 508"
+}

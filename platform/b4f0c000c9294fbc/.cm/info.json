@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "b4f0c000c9294fbc", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-12-18T02:18:39.459279", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SM-G531M"
+}

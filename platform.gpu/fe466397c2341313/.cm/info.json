@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "fe466397c2341313", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2019-01-21T07:48:24.761105", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "Device 19e5:1711 (rev 01)"
+}

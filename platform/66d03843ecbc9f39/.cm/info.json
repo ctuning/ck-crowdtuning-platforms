@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "66d03843ecbc9f39", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-11-27T20:39:17.869977", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "HUAWEI P7-L10"
+}

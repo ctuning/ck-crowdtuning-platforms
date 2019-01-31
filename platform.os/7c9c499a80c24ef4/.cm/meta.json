@@ -1,0 +1,8 @@
+{
+  "features": {
+    "bits": "32", 
+    "name": "Android 2.3.6", 
+    "name_long": "Linux version 2.6.35.7-perf (android@localhost) (gcc version 4.4.3 (GCC) ) #1 PREEMPT Sun Feb 17 13:58:51 CST 2013", 
+    "name_short": "Linux version 2.6.35.7"
+  }
+}

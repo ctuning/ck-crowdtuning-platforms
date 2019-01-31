@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "49b7981e9e5a8c27", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-11-27T17:57:58.424522", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "PHILIPS XENIUM_V787"
+}

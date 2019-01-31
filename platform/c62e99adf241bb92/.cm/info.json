@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "c62e99adf241bb92", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2019-01-16T16:37:13.376797", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "LENOVO 3300-H"
+}

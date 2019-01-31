@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "b94709cfe8d44d6b", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2019-01-27T19:35:22.405936", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "SPA CONDOR ELECTRONICS PLUME L1"
+}

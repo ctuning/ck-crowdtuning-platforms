@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "c9486f66b1b48649", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2019-01-13T21:06:33.986753", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "MT8735B"
+}

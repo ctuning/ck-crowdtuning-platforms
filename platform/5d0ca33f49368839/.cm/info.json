@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "5d0ca33f49368839", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-12-15T00:20:11.700707", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "HUAWEI EML-L29"
+}

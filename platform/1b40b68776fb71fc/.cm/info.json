@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "1b40b68776fb71fc", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-12-19T13:44:41.336397", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "X-TIGI JOY10"
+}

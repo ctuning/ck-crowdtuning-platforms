@@ -1,0 +1,10 @@
+{
+  "features": {
+    "cpu_abi": "armeabi", 
+    "cpu_features": "swp half thumb fastmult vfp edsp java", 
+    "max_freq": {}, 
+    "name": "SPH-M820", 
+    "num_proc": "0", 
+    "sub_name": "ARMv6-compatible processor rev 5 (v6l)"
+  }
+}

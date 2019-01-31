@@ -1,0 +1,12 @@
+{
+  "features": {
+    "abi": "x86_64", 
+    "bits": "64", 
+    "ck_os_base_uoa": "", 
+    "ck_os_uoa": "linux-64", 
+    "name": "Ubuntu Disco Dingo (development branch)", 
+    "name_long": "Linux-5.0.0-999-generic-x86_64-with-Ubuntu-19.04-disco", 
+    "name_short": "Linux 5.0.0", 
+    "serial_number": ""
+  }
+}

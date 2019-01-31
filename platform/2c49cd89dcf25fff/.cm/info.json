@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "2c49cd89dcf25fff", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2019-01-26T18:33:07.148677", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "ONEPLUS A5000"
+}

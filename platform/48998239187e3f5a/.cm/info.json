@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "48998239187e3f5a", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-12-21T19:35:55.827259", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "TCL 6055B"
+}

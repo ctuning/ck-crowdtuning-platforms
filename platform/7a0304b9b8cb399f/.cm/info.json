@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "7a0304b9b8cb399f", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2018-11-27T23:37:09.009779", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "SAMSUNG SPH-M820"
+}

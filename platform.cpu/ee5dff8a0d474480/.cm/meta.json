@@ -1,0 +1,23 @@
+{
+  "features": {
+    "all_freqs": {}, 
+    "cpu_abi": "", 
+    "cpu_features": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq monitor ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt aes xsave avx rdrand hypervisor lahf_lm pti fsgsbase", 
+    "max_freq": {
+      "0": 0
+    }, 
+    "name": "Intel(R) Core(TM) i7-3635QM CPU @ 2.40GHz", 
+    "num_proc": "1", 
+    "sub_name": "Intel(R) Core(TM) i7-3635QM CPU @ 2.40GHz", 
+    "workload_automation": {
+      "device_config": {
+        "core_clusters": [
+          0
+        ], 
+        "core_names": [
+          "Intel(R) Core(TM) i7-3635QM CPU @ 2.40GHz"
+        ]
+      }
+    }
+  }
+}

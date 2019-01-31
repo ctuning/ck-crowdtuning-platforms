@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "dc9e9d91de45cdad", 
+  "backup_module_uid": "aa6b542a420b8db9", 
+  "backup_module_uoa": "platform.cpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2019-01-25T12:09:05.443129", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz"
+}

@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "6894c134d35ad642", 
+  "backup_module_uid": "707ccdfe444cafac", 
+  "backup_module_uoa": "platform", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2019-01-04T02:43:24.830316", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "MacBook Pro (MacBookPro13,3)"
+}

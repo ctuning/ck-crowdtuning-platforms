@@ -1,0 +1,13 @@
+{
+  "features": {
+    "cpu_abi": "armeabi-v7a", 
+    "cpu_features": "half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm aes pmull sha1 sha2 crc32", 
+    "max_freq": {
+      "0": 1443, 
+      "1": 1443
+    }, 
+    "name": "Samsung GrandPrimePlus LTE CIS rev04 board based on MT6737T", 
+    "num_proc": "4", 
+    "sub_name": "ARMv7 Processor rev 3 (v7l)"
+  }
+}

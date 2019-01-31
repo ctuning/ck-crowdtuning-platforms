@@ -1,0 +1,16 @@
+{
+  "backup_data_uid": "e7840a99f65822c3", 
+  "backup_module_uid": "55ec7775f4afaabd", 
+  "backup_module_uoa": "platform.gpu", 
+  "control": {
+    "engine": "CK", 
+    "iso_datetime": "2019-01-16T06:16:18.217494", 
+    "version": [
+      "1", 
+      "9", 
+      "6", 
+      "1"
+    ]
+  }, 
+  "data_name": "Google (Google Inc.) Android Emulator OpenGL ES Translator (Google SwiftShader)"
+}

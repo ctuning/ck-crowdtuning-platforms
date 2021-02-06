@@ -1,6 +1,10 @@
 [![compatibility](https://github.com/ctuning/ck-guide-images/blob/master/ck-compatible.svg)](https://github.com/ctuning/ck)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
+**All CK components can be found at [cKnowledge.io](https://cKnowledge.io) and in [one GitHub repository](https://github.com/ctuning/ai)!**
+
+*This project is hosted by the [cTuning foundation](https://cTuning.org).*
+
 This repository contains JSON meta information in the [open CK format](http://github.com/ctuning/ck)
 about platforms participating in CK-powered experiment crowdsourcing across diverse
 hardware provided by volunteers. For example, it is used to crowdsource performance
@@ -18,7 +22,7 @@ using this [wiki](https://github.com/ctuning/ck-crowdtuning-platforms/wiki).
 
 Contributors
 =======
-* [Grigori Fursin](http://fursin.net/research.html), cTuning foundation/dividiti
+* [Grigori Fursin](http://fursin.net/research.html), cTuning foundation
 * [Anton Lokhmotov](https://www.hipeac.net/~anton), dividiti
 * [Flavio Vella](http://dividiti.com), dividiti
 * The community participated in the [CK-powered experiment crowdsourcing](http://cKnowledge.org/repo)
